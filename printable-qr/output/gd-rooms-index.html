@@ -1,0 +1,319 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GD Rooms - Master Index</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+        }
+        
+        .header h1 {
+            font-size: 48px;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .header p {
+            font-size: 18px;
+            opacity: 0.9;
+        }
+        
+        .room-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .room-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .room-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+        }
+        
+        .room-title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 15px;
+        }
+        
+        .room-stats {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+            gap: 20px;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 36px;
+            font-weight: bold;
+            color: #059669;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #6b7280;
+        }
+        
+        .slots-list {
+            background: #f3f4f6;
+            border-radius: 10px;
+            padding: 15px;
+            margin-top: 15px;
+        }
+        
+        .slots-list h4 {
+            margin-top: 0;
+            color: #1f2937;
+            font-size: 16px;
+        }
+        
+        .slot {
+            display: inline-block;
+            background: #10b981;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin: 3px;
+            font-size: 12px;
+        }
+        
+        .actions {
+            margin-top: 25px;
+        }
+        
+        .btn {
+            display: inline-block;
+            padding: 12px 24px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            margin: 0 10px;
+            transition: transform 0.2s ease;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #059669 0%, #10b981 100%);
+        }
+        
+        @media print {
+            body { padding: 10px; }
+            .room-grid { grid-template-columns: repeat(2, 1fr); }
+            .room-card { page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏛️️ GD Room Booking System</h1>
+            <p>Group Discussion Room Management with Time Slot Booking</p>
+        </div>
+
+        <div class="room-grid">
+
+            <div class="room-card">
+                <div class="room-title">M-GD-01</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="m-gd-01-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="m-gd-01-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+            <div class="room-card">
+                <div class="room-title">M-GD-02</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="m-gd-02-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="m-gd-02-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+            <div class="room-card">
+                <div class="room-title">M-GD-03</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="m-gd-03-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="m-gd-03-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+            <div class="room-card">
+                <div class="room-title">M-GD-04</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="m-gd-04-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="m-gd-04-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+            <div class="room-card">
+                <div class="room-title">LL-GD-01</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="ll-gd-01-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="ll-gd-01-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+            <div class="room-card">
+                <div class="room-title">LL-GD-02</div>
+                
+                <div class="room-stats">
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Slots</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">6</div>
+                        <div class="stat-label">Total Rooms</div>
+                    </div>
+                </div>
+                
+                <div class="slots-list">
+                    <h4>🕐 Available Time Slots</h4>
+                    <span class="slot">9-11</span><span class="slot">11-13</span><span class="slot">13-15</span><span class="slot">15-17</span><span class="slot">17-19</span><span class="slot">19-21</span>
+                </div>
+                
+                <div class="actions">
+                    <a href="ll-gd-02-qr-codes.html" class="btn btn-primary">📱 Generate QR Codes</a>
+                    <a href="ll-gd-02-validation.json" class="btn">🔍 View Validation Data</a>
+                </div>
+            </div>
+    
+        </div>
+        
+        <div class="actions">
+            <a href="gd-master-validation.json" class="btn">🔐 Master Validation Data</a>
+            <a href="javascript:window.print()" class="btn">🖨️ Print Overview</a>
+        </div>
+    </div>
+
+    <script>
+        console.log('GD Room Booking System loaded');
+        console.log('Total rooms:', 6);
+        console.log('Total slots:', 36);
+    </script>
+</body>
+</html>

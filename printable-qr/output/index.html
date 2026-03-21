@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campus Desk - QR Codes Index</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f8fafc;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .header h1 {
+            color: #1e293b;
+            margin: 0;
+            font-size: 32px;
+        }
+        .zones-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .zone-card {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.2s;
+        }
+        .zone-card:hover {
+            transform: translateY(-2px);
+        }
+        .zone-title {
+            font-size: 24px;
+            font-weight: bold;
+            margin: 0 0 8px 0;
+        }
+        .zone-stats {
+            color: #64748b;
+            margin: 8px 0;
+        }
+        .zone-links {
+            margin-top: 16px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 8px 16px;
+            margin: 4px;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .btn-primary {
+            background: #4f46e5;
+            color: white;
+        }
+        .btn-secondary {
+            background: #64748b;
+            color: white;
+        }
+        .summary {
+            background: white;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .summary h2 {
+            margin: 0 0 16px 0;
+            color: #1e293b;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏛️ Campus Desk - QR Codes</h1>
+        <p>Library Seat Management System - Printable QR Codes</p>
+        <p>Generated: 3/18/2026 4:16:33 PM</p>
+    </div>
+    
+    <div class="zones-grid">
+        
+        <div class="zone-card">
+            <div class="zone-title" style="color: #4F46E5">M-Block Library</div>
+            <div class="zone-stats">📚 1010 seats</div>
+            <div class="zone-stats">📐 20 columns × 51 rows</div>
+            <div class="zone-links">
+                <a href="mblock-qr-codes.html" class="btn btn-primary">📄 Print QR Codes</a>
+                <a href="mblock-validation-data.json" class="btn btn-secondary">🔍 Validation Data</a>
+            </div>
+        </div>
+        
+        <div class="zone-card">
+            <div class="zone-title" style="color: #7C3AED">Law Library</div>
+            <div class="zone-stats">📚 205 seats</div>
+            <div class="zone-stats">📐 15 columns × 14 rows</div>
+            <div class="zone-links">
+                <a href="law-qr-codes.html" class="btn btn-primary">📄 Print QR Codes</a>
+                <a href="law-validation-data.json" class="btn btn-secondary">🔍 Validation Data</a>
+            </div>
+        </div>
+        
+        <div class="zone-card">
+            <div class="zone-title" style="color: #059669">Central Library</div>
+            <div class="zone-stats">📚 105 seats</div>
+            <div class="zone-stats">📐 15 columns × 7 rows</div>
+            <div class="zone-links">
+                <a href="central-qr-codes.html" class="btn btn-primary">📄 Print QR Codes</a>
+                <a href="central-validation-data.json" class="btn btn-secondary">🔍 Validation Data</a>
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="summary">
+        <h2>📊 Summary</h2>
+        <p><strong>Total Seats:</strong> 1320</p>
+        <p><strong>Total Zones:</strong> 3</p>
+        <p><strong>QR Codes Generated:</strong> 1320</p>
+        <p><strong>Validation Files:</strong> 4 (1 master + 3 zone-specific)</p>
+    </div>
+</body>
+</html>

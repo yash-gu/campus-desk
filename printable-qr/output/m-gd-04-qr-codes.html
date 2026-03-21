@@ -1,0 +1,249 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M-GD-04 - GD Room QR Codes</title>
+    <style>
+        @page {
+            size: A4;
+            margin: 1cm;
+        }
+        
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: white;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #4F46E5;
+            padding-bottom: 20px;
+        }
+        
+        .header h1 {
+            color: #4F46E5;
+            margin: 0;
+            font-size: 28px;
+        }
+        
+        .header p {
+            margin: 5px 0 0 0;
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .room-info {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .qr-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .qr-card {
+            border: 2px solid #e5e7eb;
+            border-radius: 15px;
+            padding: 15px;
+            text-align: center;
+            background: #f9fafb;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .qr-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #1f2937;
+            margin-bottom: 15px;
+        }
+        
+        .qr-time {
+            font-size: 16px;
+            color: #6b7280;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .qr-code {
+            width: 150px;
+            height: 150px;
+            margin: 0 auto 15px;
+            border: 2px dashed #9ca3af;
+            padding: 10px;
+            background: white;
+            border-radius: 10px;
+        }
+        
+        .qr-placeholder {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+            color: #6b7280;
+        }
+        
+        .checksum {
+            font-size: 10px;
+            color: #059669;
+            margin-top: 5px;
+            font-family: monospace;
+        }
+        
+        .instructions {
+            background: #fef3c7;
+            border: 1px solid #f59e0b;
+            border-radius: 10px;
+            padding: 20px;
+            margin-top: 30px;
+        }
+        
+        .instructions h3 {
+            color: #d97706;
+            margin-top: 0;
+        }
+        
+        .instructions ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        
+        .instructions li {
+            margin-bottom: 8px;
+            color: #4b5563;
+        }
+        
+        @media print {
+            body { padding: 10px; }
+            .qr-grid { grid-template-columns: repeat(3, 1fr); }
+            .qr-card { page-break-inside: avoid; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>M-GD-04</h1>
+        <p>Group Discussion Room - Slot Booking QR Codes</p>
+        <p><strong>Room ID:</strong> M-GD-04 | <strong>Total Slots:</strong> 6</p>
+    </div>
+
+    <div class="room-info">
+        <h2>📍 Room Information</h2>
+        <p><strong>Room Name:</strong> M-GD-04</p>
+        <p><strong>Available Slots:</strong> 9-11, 11-13, 13-15, 15-17, 17-19, 19-21</p>
+        <p><strong>Booking Type:</strong> Time Slot Based</p>
+    </div>
+
+    <div class="qr-grid">
+
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 9-11</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 9-11]
+                </div>
+            </div>
+            <div class="checksum">🔐 66D946B5</div>
+        </div>
+    
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 11-13</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 11-13]
+                </div>
+            </div>
+            <div class="checksum">🔐 2F85E45E</div>
+        </div>
+    
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 13-15</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 13-15]
+                </div>
+            </div>
+            <div class="checksum">🔐 6C607D1E</div>
+        </div>
+    
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 15-17</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 15-17]
+                </div>
+            </div>
+            <div class="checksum">🔐 56C4EA22</div>
+        </div>
+    
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 17-19</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 17-19]
+                </div>
+            </div>
+            <div class="checksum">🔐 19EA5162</div>
+        </div>
+    
+        <div class="qr-card">
+            <div class="qr-title">M-GD-04</div>
+            <div class="qr-time">🕐 19-21</div>
+            <div class="qr-code">
+                <div class="qr-placeholder">
+                    [QR Code for 19-21]
+                </div>
+            </div>
+            <div class="checksum">🔐 7E10014D</div>
+        </div>
+    
+    </div>
+
+    <div class="instructions">
+        <h3>📋 Instructions</h3>
+        <ul>
+            <li><strong>Single QR System:</strong> Each QR code works for both room identification and slot booking</li>
+            <li><strong>Scan to Book:</strong> Student scans QR code to book the specific time slot</li>
+            <li><strong>Admin Approval:</strong> Booking request sent to admin for approval</li>
+            <li><strong>Automatic Validation:</strong> System validates room, slot, and checksum integrity</li>
+            <li><strong>Real-time Updates:</strong> Dashboard shows available slots in real-time</li>
+        </ul>
+    </div>
+
+    <script>
+        // Generate QR codes when page loads
+        window.onload = function() {
+            console.log('Generating QR codes for M-GD-04');
+            
+            // This would normally use a QR code library
+            // For demo purposes, showing placeholders
+            const qrCodes = document.querySelectorAll('.qr-placeholder');
+            qrCodes.forEach((element, index) => {
+                setTimeout(() => {
+                    element.innerHTML = '📱 QR Generated';
+                    element.style.background = '#10b981';
+                    element.style.color = 'white';
+                }, index * 200);
+            });
+        };
+    </script>
+</body>
+</html>

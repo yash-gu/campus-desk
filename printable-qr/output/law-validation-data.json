@@ -1,0 +1,4107 @@
+{
+  "zone": "Law",
+  "totalSeats": 205,
+  "seats": [
+    {
+      "seatId": "LL-0001",
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "checksum": "5127C7B3",
+      "qrData": {
+        "seatId": "LL-0001",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.798Z",
+        "checksum": "5127C7B3"
+      }
+    },
+    {
+      "seatId": "LL-0002",
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "checksum": "54FCCE0C",
+      "qrData": {
+        "seatId": "LL-0002",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.810Z",
+        "checksum": "54FCCE0C"
+      }
+    },
+    {
+      "seatId": "LL-0003",
+      "position": {
+        "row": 1,
+        "col": 3
+      },
+      "checksum": "04DE9C35",
+      "qrData": {
+        "seatId": "LL-0003",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.822Z",
+        "checksum": "04DE9C35"
+      }
+    },
+    {
+      "seatId": "LL-0004",
+      "position": {
+        "row": 1,
+        "col": 4
+      },
+      "checksum": "5EBA0676",
+      "qrData": {
+        "seatId": "LL-0004",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.833Z",
+        "checksum": "5EBA0676"
+      }
+    },
+    {
+      "seatId": "LL-0005",
+      "position": {
+        "row": 1,
+        "col": 5
+      },
+      "checksum": "476A8F49",
+      "qrData": {
+        "seatId": "LL-0005",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.846Z",
+        "checksum": "476A8F49"
+      }
+    },
+    {
+      "seatId": "LL-0006",
+      "position": {
+        "row": 1,
+        "col": 6
+      },
+      "checksum": "1270DAF8",
+      "qrData": {
+        "seatId": "LL-0006",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.856Z",
+        "checksum": "1270DAF8"
+      }
+    },
+    {
+      "seatId": "LL-0007",
+      "position": {
+        "row": 1,
+        "col": 7
+      },
+      "checksum": "6C4C4539",
+      "qrData": {
+        "seatId": "LL-0007",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.868Z",
+        "checksum": "6C4C4539"
+      }
+    },
+    {
+      "seatId": "LL-0008",
+      "position": {
+        "row": 1,
+        "col": 8
+      },
+      "checksum": "39D85086",
+      "qrData": {
+        "seatId": "LL-0008",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.880Z",
+        "checksum": "39D85086"
+      }
+    },
+    {
+      "seatId": "LL-0009",
+      "position": {
+        "row": 1,
+        "col": 9
+      },
+      "checksum": "200319BB",
+      "qrData": {
+        "seatId": "LL-0009",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.890Z",
+        "checksum": "200319BB"
+      }
+    },
+    {
+      "seatId": "LL-0010",
+      "position": {
+        "row": 1,
+        "col": 10
+      },
+      "checksum": "2721C4AF",
+      "qrData": {
+        "seatId": "LL-0010",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.903Z",
+        "checksum": "2721C4AF"
+      }
+    },
+    {
+      "seatId": "LL-0011",
+      "position": {
+        "row": 1,
+        "col": 11
+      },
+      "checksum": "32B9A592",
+      "qrData": {
+        "seatId": "LL-0011",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.916Z",
+        "checksum": "32B9A592"
+      }
+    },
+    {
+      "seatId": "LL-0012",
+      "position": {
+        "row": 1,
+        "col": 12
+      },
+      "checksum": "736AF02D",
+      "qrData": {
+        "seatId": "LL-0012",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.929Z",
+        "checksum": "736AF02D"
+      }
+    },
+    {
+      "seatId": "LL-0013",
+      "position": {
+        "row": 1,
+        "col": 13
+      },
+      "checksum": "198F85EC",
+      "qrData": {
+        "seatId": "LL-0013",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.939Z",
+        "checksum": "198F85EC"
+      }
+    },
+    {
+      "seatId": "LL-0014",
+      "position": {
+        "row": 1,
+        "col": 14
+      },
+      "checksum": "404BE455",
+      "qrData": {
+        "seatId": "LL-0014",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.952Z",
+        "checksum": "404BE455"
+      }
+    },
+    {
+      "seatId": "LL-0015",
+      "position": {
+        "row": 1,
+        "col": 15
+      },
+      "checksum": "65D8B16A",
+      "qrData": {
+        "seatId": "LL-0015",
+        "zone": "Law",
+        "position": {
+          "row": 1,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.969Z",
+        "checksum": "65D8B16A"
+      }
+    },
+    {
+      "seatId": "LL-0016",
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "checksum": "0BFD4729",
+      "qrData": {
+        "seatId": "LL-0016",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.984Z",
+        "checksum": "0BFD4729"
+      }
+    },
+    {
+      "seatId": "LL-0017",
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "checksum": "4DDE2318",
+      "qrData": {
+        "seatId": "LL-0017",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:28.995Z",
+        "checksum": "4DDE2318"
+      }
+    },
+    {
+      "seatId": "LL-0018",
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "checksum": "584672A7",
+      "qrData": {
+        "seatId": "LL-0018",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.006Z",
+        "checksum": "584672A7"
+      }
+    },
+    {
+      "seatId": "LL-0019",
+      "position": {
+        "row": 2,
+        "col": 4
+      },
+      "checksum": "0194F79A",
+      "qrData": {
+        "seatId": "LL-0019",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.021Z",
+        "checksum": "0194F79A"
+      }
+    },
+    {
+      "seatId": "LL-0020",
+      "position": {
+        "row": 2,
+        "col": 5
+      },
+      "checksum": "458FE6D0",
+      "qrData": {
+        "seatId": "LL-0020",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.040Z",
+        "checksum": "458FE6D0"
+      }
+    },
+    {
+      "seatId": "LL-0021",
+      "position": {
+        "row": 2,
+        "col": 6
+      },
+      "checksum": "144B8371",
+      "qrData": {
+        "seatId": "LL-0021",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.053Z",
+        "checksum": "144B8371"
+      }
+    },
+    {
+      "seatId": "LL-0022",
+      "position": {
+        "row": 2,
+        "col": 7
+      },
+      "checksum": "6E26EDB2",
+      "qrData": {
+        "seatId": "LL-0022",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.065Z",
+        "checksum": "6E26EDB2"
+      }
+    },
+    {
+      "seatId": "LL-0023",
+      "position": {
+        "row": 2,
+        "col": 8
+      },
+      "checksum": "37FDA80D",
+      "qrData": {
+        "seatId": "LL-0023",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.079Z",
+        "checksum": "37FDA80D"
+      }
+    },
+    {
+      "seatId": "LL-0024",
+      "position": {
+        "row": 2,
+        "col": 9
+      },
+      "checksum": "21DDC234",
+      "qrData": {
+        "seatId": "LL-0024",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.089Z",
+        "checksum": "21DDC234"
+      }
+    },
+    {
+      "seatId": "LL-0025",
+      "position": {
+        "row": 2,
+        "col": 10
+      },
+      "checksum": "7BB92C75",
+      "qrData": {
+        "seatId": "LL-0025",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.100Z",
+        "checksum": "7BB92C75"
+      }
+    },
+    {
+      "seatId": "LL-0026",
+      "position": {
+        "row": 2,
+        "col": 11
+      },
+      "checksum": "2A6B694A",
+      "qrData": {
+        "seatId": "LL-0026",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.112Z",
+        "checksum": "2A6B694A"
+      }
+    },
+    {
+      "seatId": "LL-0027",
+      "position": {
+        "row": 2,
+        "col": 12
+      },
+      "checksum": "2F7000F7",
+      "qrData": {
+        "seatId": "LL-0027",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.129Z",
+        "checksum": "2F7000F7"
+      }
+    },
+    {
+      "seatId": "LL-0028",
+      "position": {
+        "row": 2,
+        "col": 13
+      },
+      "checksum": "76B494C8",
+      "qrData": {
+        "seatId": "LL-0028",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.140Z",
+        "checksum": "76B494C8"
+      }
+    },
+    {
+      "seatId": "LL-0029",
+      "position": {
+        "row": 2,
+        "col": 14
+      },
+      "checksum": "1CD92A87",
+      "qrData": {
+        "seatId": "LL-0029",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.154Z",
+        "checksum": "1CD92A87"
+      }
+    },
+    {
+      "seatId": "LL-0030",
+      "position": {
+        "row": 2,
+        "col": 15
+      },
+      "checksum": "63FE08F1",
+      "qrData": {
+        "seatId": "LL-0030",
+        "zone": "Law",
+        "position": {
+          "row": 2,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.165Z",
+        "checksum": "63FE08F1"
+      }
+    },
+    {
+      "seatId": "LL-0031",
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "checksum": "0A229EB0",
+      "qrData": {
+        "seatId": "LL-0031",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.178Z",
+        "checksum": "0A229EB0"
+      }
+    },
+    {
+      "seatId": "LL-0032",
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "checksum": "4FB8CB91",
+      "qrData": {
+        "seatId": "LL-0032",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.190Z",
+        "checksum": "4FB8CB91"
+      }
+    },
+    {
+      "seatId": "LL-0033",
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "checksum": "566BCA2E",
+      "qrData": {
+        "seatId": "LL-0033",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.202Z",
+        "checksum": "566BCA2E"
+      }
+    },
+    {
+      "seatId": "LL-0034",
+      "position": {
+        "row": 3,
+        "col": 4
+      },
+      "checksum": "036FA013",
+      "qrData": {
+        "seatId": "LL-0034",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.215Z",
+        "checksum": "036FA013"
+      }
+    },
+    {
+      "seatId": "LL-0035",
+      "position": {
+        "row": 3,
+        "col": 5
+      },
+      "checksum": "5D4B0A54",
+      "qrData": {
+        "seatId": "LL-0035",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.228Z",
+        "checksum": "5D4B0A54"
+      }
+    },
+    {
+      "seatId": "LL-0036",
+      "position": {
+        "row": 3,
+        "col": 6
+      },
+      "checksum": "48D98B6B",
+      "qrData": {
+        "seatId": "LL-0036",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.240Z",
+        "checksum": "48D98B6B"
+      }
+    },
+    {
+      "seatId": "LL-0037",
+      "position": {
+        "row": 3,
+        "col": 7
+      },
+      "checksum": "1101DED6",
+      "qrData": {
+        "seatId": "LL-0037",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.252Z",
+        "checksum": "1101DED6"
+      }
+    },
+    {
+      "seatId": "LL-0038",
+      "position": {
+        "row": 3,
+        "col": 8
+      },
+      "checksum": "6ADD4917",
+      "qrData": {
+        "seatId": "LL-0038",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.263Z",
+        "checksum": "6ADD4917"
+      }
+    },
+    {
+      "seatId": "LL-0039",
+      "position": {
+        "row": 3,
+        "col": 9
+      },
+      "checksum": "3B474CA8",
+      "qrData": {
+        "seatId": "LL-0039",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.274Z",
+        "checksum": "3B474CA8"
+      }
+    },
+    {
+      "seatId": "LL-0040",
+      "position": {
+        "row": 3,
+        "col": 10
+      },
+      "checksum": "7D93D4EE",
+      "qrData": {
+        "seatId": "LL-0040",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.287Z",
+        "checksum": "7D93D4EE"
+      }
+    },
+    {
+      "seatId": "LL-0041",
+      "position": {
+        "row": 3,
+        "col": 11
+      },
+      "checksum": "2890C0D1",
+      "qrData": {
+        "seatId": "LL-0041",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.301Z",
+        "checksum": "2890C0D1"
+      }
+    },
+    {
+      "seatId": "LL-0042",
+      "position": {
+        "row": 3,
+        "col": 12
+      },
+      "checksum": "314AA970",
+      "qrData": {
+        "seatId": "LL-0042",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.315Z",
+        "checksum": "314AA970"
+      }
+    },
+    {
+      "seatId": "LL-0043",
+      "position": {
+        "row": 3,
+        "col": 13
+      },
+      "checksum": "74D9EC4F",
+      "qrData": {
+        "seatId": "LL-0043",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.328Z",
+        "checksum": "74D9EC4F"
+      }
+    },
+    {
+      "seatId": "LL-0044",
+      "position": {
+        "row": 3,
+        "col": 14
+      },
+      "checksum": "1AFE820E",
+      "qrData": {
+        "seatId": "LL-0044",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.340Z",
+        "checksum": "1AFE820E"
+      }
+    },
+    {
+      "seatId": "LL-0045",
+      "position": {
+        "row": 3,
+        "col": 15
+      },
+      "checksum": "3EDCE833",
+      "qrData": {
+        "seatId": "LL-0045",
+        "zone": "Law",
+        "position": {
+          "row": 3,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.369Z",
+        "checksum": "3EDCE833"
+      }
+    },
+    {
+      "seatId": "LL-0046",
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "checksum": "6747AD8C",
+      "qrData": {
+        "seatId": "LL-0046",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.380Z",
+        "checksum": "6747AD8C"
+      }
+    },
+    {
+      "seatId": "LL-0047",
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "checksum": "0D6C434B",
+      "qrData": {
+        "seatId": "LL-0047",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.390Z",
+        "checksum": "0D6C434B"
+      }
+    },
+    {
+      "seatId": "LL-0048",
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "checksum": "4C6F26F6",
+      "qrData": {
+        "seatId": "LL-0048",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.403Z",
+        "checksum": "4C6F26F6"
+      }
+    },
+    {
+      "seatId": "LL-0049",
+      "position": {
+        "row": 4,
+        "col": 4
+      },
+      "checksum": "59B56EC9",
+      "qrData": {
+        "seatId": "LL-0049",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.415Z",
+        "checksum": "59B56EC9"
+      }
+    },
+    {
+      "seatId": "LL-0050",
+      "position": {
+        "row": 4,
+        "col": 5
+      },
+      "checksum": "5F25B2CD",
+      "qrData": {
+        "seatId": "LL-0050",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.432Z",
+        "checksum": "5F25B2CD"
+      }
+    },
+    {
+      "seatId": "LL-0051",
+      "position": {
+        "row": 4,
+        "col": 6
+      },
+      "checksum": "46FEE2F2",
+      "qrData": {
+        "seatId": "LL-0051",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.449Z",
+        "checksum": "46FEE2F2"
+      }
+    },
+    {
+      "seatId": "LL-0052",
+      "position": {
+        "row": 4,
+        "col": 7
+      },
+      "checksum": "12DC874F",
+      "qrData": {
+        "seatId": "LL-0052",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.464Z",
+        "checksum": "12DC874F"
+      }
+    },
+    {
+      "seatId": "LL-0053",
+      "position": {
+        "row": 4,
+        "col": 8
+      },
+      "checksum": "6CB7F190",
+      "qrData": {
+        "seatId": "LL-0053",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.474Z",
+        "checksum": "6CB7F190"
+      }
+    },
+    {
+      "seatId": "LL-0054",
+      "position": {
+        "row": 4,
+        "col": 9
+      },
+      "checksum": "396CA42F",
+      "qrData": {
+        "seatId": "LL-0054",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.488Z",
+        "checksum": "396CA42F"
+      }
+    },
+    {
+      "seatId": "LL-0055",
+      "position": {
+        "row": 4,
+        "col": 10
+      },
+      "checksum": "206EC612",
+      "qrData": {
+        "seatId": "LL-0055",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.503Z",
+        "checksum": "206EC612"
+      }
+    },
+    {
+      "seatId": "LL-0056",
+      "position": {
+        "row": 4,
+        "col": 11
+      },
+      "checksum": "7A4A3053",
+      "qrData": {
+        "seatId": "LL-0056",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.515Z",
+        "checksum": "7A4A3053"
+      }
+    },
+    {
+      "seatId": "LL-0057",
+      "position": {
+        "row": 4,
+        "col": 12
+      },
+      "checksum": "2BDA656C",
+      "qrData": {
+        "seatId": "LL-0057",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.532Z",
+        "checksum": "2BDA656C"
+      }
+    },
+    {
+      "seatId": "LL-0058",
+      "position": {
+        "row": 4,
+        "col": 13
+      },
+      "checksum": "2E0104D5",
+      "qrData": {
+        "seatId": "LL-0058",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.546Z",
+        "checksum": "2E0104D5"
+      }
+    },
+    {
+      "seatId": "LL-0059",
+      "position": {
+        "row": 4,
+        "col": 14
+      },
+      "checksum": "782390EA",
+      "qrData": {
+        "seatId": "LL-0059",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.555Z",
+        "checksum": "782390EA"
+      }
+    },
+    {
+      "seatId": "LL-0060",
+      "position": {
+        "row": 4,
+        "col": 15
+      },
+      "checksum": "40B790AC",
+      "qrData": {
+        "seatId": "LL-0060",
+        "zone": "Law",
+        "position": {
+          "row": 4,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.568Z",
+        "checksum": "40B790AC"
+      }
+    },
+    {
+      "seatId": "LL-0061",
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "checksum": "656D0513",
+      "qrData": {
+        "seatId": "LL-0061",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.580Z",
+        "checksum": "656D0513"
+      }
+    },
+    {
+      "seatId": "LL-0062",
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "checksum": "0B919AD2",
+      "qrData": {
+        "seatId": "LL-0062",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.591Z",
+        "checksum": "0B919AD2"
+      }
+    },
+    {
+      "seatId": "LL-0063",
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "checksum": "4E49CF6F",
+      "qrData": {
+        "seatId": "LL-0063",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.605Z",
+        "checksum": "4E49CF6F"
+      }
+    },
+    {
+      "seatId": "LL-0064",
+      "position": {
+        "row": 5,
+        "col": 4
+      },
+      "checksum": "57DAC650",
+      "qrData": {
+        "seatId": "LL-0064",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.621Z",
+        "checksum": "57DAC650"
+      }
+    },
+    {
+      "seatId": "LL-0065",
+      "position": {
+        "row": 5,
+        "col": 5
+      },
+      "checksum": "0200A3F1",
+      "qrData": {
+        "seatId": "LL-0065",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.635Z",
+        "checksum": "0200A3F1"
+      }
+    },
+    {
+      "seatId": "LL-0066",
+      "position": {
+        "row": 5,
+        "col": 6
+      },
+      "checksum": "5BDC0E32",
+      "qrData": {
+        "seatId": "LL-0066",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.651Z",
+        "checksum": "5BDC0E32"
+      }
+    },
+    {
+      "seatId": "LL-0067",
+      "position": {
+        "row": 5,
+        "col": 7
+      },
+      "checksum": "4A48878D",
+      "qrData": {
+        "seatId": "LL-0067",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.663Z",
+        "checksum": "4A48878D"
+      }
+    },
+    {
+      "seatId": "LL-0068",
+      "position": {
+        "row": 5,
+        "col": 8
+      },
+      "checksum": "0F92E2B4",
+      "qrData": {
+        "seatId": "LL-0068",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.674Z",
+        "checksum": "0F92E2B4"
+      }
+    },
+    {
+      "seatId": "LL-0069",
+      "position": {
+        "row": 5,
+        "col": 9
+      },
+      "checksum": "696E4CF5",
+      "qrData": {
+        "seatId": "LL-0069",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.697Z",
+        "checksum": "696E4CF5"
+      }
+    },
+    {
+      "seatId": "LL-0070",
+      "position": {
+        "row": 5,
+        "col": 10
+      },
+      "checksum": "22496E8B",
+      "qrData": {
+        "seatId": "LL-0070",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.710Z",
+        "checksum": "22496E8B"
+      }
+    },
+    {
+      "seatId": "LL-0071",
+      "position": {
+        "row": 5,
+        "col": 11
+      },
+      "checksum": "7C24D8CC",
+      "qrData": {
+        "seatId": "LL-0071",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.720Z",
+        "checksum": "7C24D8CC"
+      }
+    },
+    {
+      "seatId": "LL-0072",
+      "position": {
+        "row": 5,
+        "col": 12
+      },
+      "checksum": "29FFBCF3",
+      "qrData": {
+        "seatId": "LL-0072",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.731Z",
+        "checksum": "29FFBCF3"
+      }
+    },
+    {
+      "seatId": "LL-0073",
+      "position": {
+        "row": 5,
+        "col": 13
+      },
+      "checksum": "2FDBAD4E",
+      "qrData": {
+        "seatId": "LL-0073",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.745Z",
+        "checksum": "2FDBAD4E"
+      }
+    },
+    {
+      "seatId": "LL-0074",
+      "position": {
+        "row": 5,
+        "col": 14
+      },
+      "checksum": "7648E871",
+      "qrData": {
+        "seatId": "LL-0074",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.755Z",
+        "checksum": "7648E871"
+      }
+    },
+    {
+      "seatId": "LL-0075",
+      "position": {
+        "row": 5,
+        "col": 15
+      },
+      "checksum": "1C6D7E30",
+      "qrData": {
+        "seatId": "LL-0075",
+        "zone": "Law",
+        "position": {
+          "row": 5,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.767Z",
+        "checksum": "1C6D7E30"
+      }
+    },
+    {
+      "seatId": "LL-0076",
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "checksum": "3D6DEC11",
+      "qrData": {
+        "seatId": "LL-0076",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.779Z",
+        "checksum": "3D6DEC11"
+      }
+    },
+    {
+      "seatId": "LL-0077",
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "checksum": "68B6A9AE",
+      "qrData": {
+        "seatId": "LL-0077",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.789Z",
+        "checksum": "68B6A9AE"
+      }
+    },
+    {
+      "seatId": "LL-0078",
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "checksum": "0EDB3F6D",
+      "qrData": {
+        "seatId": "LL-0078",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.802Z",
+        "checksum": "0EDB3F6D"
+      }
+    },
+    {
+      "seatId": "LL-0079",
+      "position": {
+        "row": 6,
+        "col": 4
+      },
+      "checksum": "4B002AD4",
+      "qrData": {
+        "seatId": "LL-0079",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.814Z",
+        "checksum": "4B002AD4"
+      }
+    },
+    {
+      "seatId": "LL-0080",
+      "position": {
+        "row": 6,
+        "col": 5
+      },
+      "checksum": "03DB4C6A",
+      "qrData": {
+        "seatId": "LL-0080",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.824Z",
+        "checksum": "03DB4C6A"
+      }
+    },
+    {
+      "seatId": "LL-0081",
+      "position": {
+        "row": 6,
+        "col": 6
+      },
+      "checksum": "5DB6B6AB",
+      "qrData": {
+        "seatId": "LL-0081",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.838Z",
+        "checksum": "5DB6B6AB"
+      }
+    },
+    {
+      "seatId": "LL-0082",
+      "position": {
+        "row": 6,
+        "col": 7
+      },
+      "checksum": "486DDF14",
+      "qrData": {
+        "seatId": "LL-0082",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.851Z",
+        "checksum": "486DDF14"
+      }
+    },
+    {
+      "seatId": "LL-0083",
+      "position": {
+        "row": 6,
+        "col": 8
+      },
+      "checksum": "116D8B2D",
+      "qrData": {
+        "seatId": "LL-0083",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.863Z",
+        "checksum": "116D8B2D"
+      }
+    },
+    {
+      "seatId": "LL-0084",
+      "position": {
+        "row": 6,
+        "col": 9
+      },
+      "checksum": "6B48F56E",
+      "qrData": {
+        "seatId": "LL-0084",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.879Z",
+        "checksum": "6B48F56E"
+      }
+    },
+    {
+      "seatId": "LL-0085",
+      "position": {
+        "row": 6,
+        "col": 10
+      },
+      "checksum": "3ADBA051",
+      "qrData": {
+        "seatId": "LL-0085",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.890Z",
+        "checksum": "3ADBA051"
+      }
+    },
+    {
+      "seatId": "LL-0086",
+      "position": {
+        "row": 6,
+        "col": 11
+      },
+      "checksum": "1EFFC9F0",
+      "qrData": {
+        "seatId": "LL-0086",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.903Z",
+        "checksum": "1EFFC9F0"
+      }
+    },
+    {
+      "seatId": "LL-0087",
+      "position": {
+        "row": 6,
+        "col": 12
+      },
+      "checksum": "78DB3431",
+      "qrData": {
+        "seatId": "LL-0087",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.915Z",
+        "checksum": "78DB3431"
+      }
+    },
+    {
+      "seatId": "LL-0088",
+      "position": {
+        "row": 6,
+        "col": 13
+      },
+      "checksum": "2D49618E",
+      "qrData": {
+        "seatId": "LL-0088",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.928Z",
+        "checksum": "2D49618E"
+      }
+    },
+    {
+      "seatId": "LL-0089",
+      "position": {
+        "row": 6,
+        "col": 14
+      },
+      "checksum": "2C9208B3",
+      "qrData": {
+        "seatId": "LL-0089",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.940Z",
+        "checksum": "2C9208B3"
+      }
+    },
+    {
+      "seatId": "LL-0090",
+      "position": {
+        "row": 6,
+        "col": 15
+      },
+      "checksum": "1A92D5B7",
+      "qrData": {
+        "seatId": "LL-0090",
+        "zone": "Law",
+        "position": {
+          "row": 6,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.952Z",
+        "checksum": "1A92D5B7"
+      }
+    },
+    {
+      "seatId": "LL-0091",
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "checksum": "3F48948A",
+      "qrData": {
+        "seatId": "LL-0091",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.966Z",
+        "checksum": "3F48948A"
+      }
+    },
+    {
+      "seatId": "LL-0092",
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "checksum": "66DC0135",
+      "qrData": {
+        "seatId": "LL-0092",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.979Z",
+        "checksum": "66DC0135"
+      }
+    },
+    {
+      "seatId": "LL-0093",
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "checksum": "0D0096F4",
+      "qrData": {
+        "seatId": "LL-0093",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:29.990Z",
+        "checksum": "0D0096F4"
+      }
+    },
+    {
+      "seatId": "LL-0094",
+      "position": {
+        "row": 7,
+        "col": 4
+      },
+      "checksum": "4CDAD34D",
+      "qrData": {
+        "seatId": "LL-0094",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.003Z",
+        "checksum": "4CDAD34D"
+      }
+    },
+    {
+      "seatId": "LL-0095",
+      "position": {
+        "row": 7,
+        "col": 5
+      },
+      "checksum": "5949C272",
+      "qrData": {
+        "seatId": "LL-0095",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.014Z",
+        "checksum": "5949C272"
+      }
+    },
+    {
+      "seatId": "LL-0096",
+      "position": {
+        "row": 7,
+        "col": 6
+      },
+      "checksum": "0091A7CF",
+      "qrData": {
+        "seatId": "LL-0096",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.024Z",
+        "checksum": "0091A7CF"
+      }
+    },
+    {
+      "seatId": "LL-0097",
+      "position": {
+        "row": 7,
+        "col": 7
+      },
+      "checksum": "5A6D1210",
+      "qrData": {
+        "seatId": "LL-0097",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.037Z",
+        "checksum": "5A6D1210"
+      }
+    },
+    {
+      "seatId": "LL-0098",
+      "position": {
+        "row": 7,
+        "col": 8
+      },
+      "checksum": "4BB783AF",
+      "qrData": {
+        "seatId": "LL-0098",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.048Z",
+        "checksum": "4BB783AF"
+      }
+    },
+    {
+      "seatId": "LL-0099",
+      "position": {
+        "row": 7,
+        "col": 9
+      },
+      "checksum": "0E23E692",
+      "qrData": {
+        "seatId": "LL-0099",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.061Z",
+        "checksum": "0E23E692"
+      }
+    },
+    {
+      "seatId": "LL-0100",
+      "position": {
+        "row": 7,
+        "col": 10
+      },
+      "checksum": "47F63B73",
+      "qrData": {
+        "seatId": "LL-0100",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.073Z",
+        "checksum": "47F63B73"
+      }
+    },
+    {
+      "seatId": "LL-0101",
+      "position": {
+        "row": 7,
+        "col": 11
+      },
+      "checksum": "5E2E5A4C",
+      "qrData": {
+        "seatId": "LL-0101",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.086Z",
+        "checksum": "5E2E5A4C"
+      }
+    },
+    {
+      "seatId": "LL-0102",
+      "position": {
+        "row": 7,
+        "col": 12
+      },
+      "checksum": "0452F00B",
+      "qrData": {
+        "seatId": "LL-0102",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.097Z",
+        "checksum": "0452F00B"
+      }
+    },
+    {
+      "seatId": "LL-0103",
+      "position": {
+        "row": 7,
+        "col": 13
+      },
+      "checksum": "55887A36",
+      "qrData": {
+        "seatId": "LL-0103",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.107Z",
+        "checksum": "55887A36"
+      }
+    },
+    {
+      "seatId": "LL-0104",
+      "position": {
+        "row": 7,
+        "col": 14
+      },
+      "checksum": "509C1B89",
+      "qrData": {
+        "seatId": "LL-0104",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.119Z",
+        "checksum": "509C1B89"
+      }
+    },
+    {
+      "seatId": "LL-0105",
+      "position": {
+        "row": 7,
+        "col": 15
+      },
+      "checksum": "093F4EB8",
+      "qrData": {
+        "seatId": "LL-0105",
+        "zone": "Law",
+        "position": {
+          "row": 7,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.130Z",
+        "checksum": "093F4EB8"
+      }
+    },
+    {
+      "seatId": "LL-0106",
+      "position": {
+        "row": 8,
+        "col": 1
+      },
+      "checksum": "631AB8F9",
+      "qrData": {
+        "seatId": "LL-0106",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.140Z",
+        "checksum": "631AB8F9"
+      }
+    },
+    {
+      "seatId": "LL-0107",
+      "position": {
+        "row": 8,
+        "col": 2
+      },
+      "checksum": "4309DCC6",
+      "qrData": {
+        "seatId": "LL-0107",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.152Z",
+        "checksum": "4309DCC6"
+      }
+    },
+    {
+      "seatId": "LL-0108",
+      "position": {
+        "row": 8,
+        "col": 3
+      },
+      "checksum": "16D18D7B",
+      "qrData": {
+        "seatId": "LL-0108",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.166Z",
+        "checksum": "16D18D7B"
+      }
+    },
+    {
+      "seatId": "LL-0109",
+      "position": {
+        "row": 8,
+        "col": 4
+      },
+      "checksum": "70ACF7BC",
+      "qrData": {
+        "seatId": "LL-0109",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.178Z",
+        "checksum": "70ACF7BC"
+      }
+    },
+    {
+      "seatId": "LL-0110",
+      "position": {
+        "row": 8,
+        "col": 5
+      },
+      "checksum": "29881952",
+      "qrData": {
+        "seatId": "LL-0110",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.189Z",
+        "checksum": "29881952"
+      }
+    },
+    {
+      "seatId": "LL-0111",
+      "position": {
+        "row": 8,
+        "col": 6
+      },
+      "checksum": "7C9C7C6D",
+      "qrData": {
+        "seatId": "LL-0111",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.200Z",
+        "checksum": "7C9C7C6D"
+      }
+    },
+    {
+      "seatId": "LL-0112",
+      "position": {
+        "row": 8,
+        "col": 7
+      },
+      "checksum": "22C1122C",
+      "qrData": {
+        "seatId": "LL-0112",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.236Z",
+        "checksum": "22C1122C"
+      }
+    },
+    {
+      "seatId": "LL-0113",
+      "position": {
+        "row": 8,
+        "col": 8
+      },
+      "checksum": "371A5815",
+      "qrData": {
+        "seatId": "LL-0113",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.265Z",
+        "checksum": "371A5815"
+      }
+    },
+    {
+      "seatId": "LL-0114",
+      "position": {
+        "row": 8,
+        "col": 9
+      },
+      "checksum": "6F0A3DAA",
+      "qrData": {
+        "seatId": "LL-0114",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.318Z",
+        "checksum": "6F0A3DAA"
+      }
+    },
+    {
+      "seatId": "LL-0115",
+      "position": {
+        "row": 8,
+        "col": 10
+      },
+      "checksum": "152ED369",
+      "qrData": {
+        "seatId": "LL-0115",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.364Z",
+        "checksum": "152ED369"
+      }
+    },
+    {
+      "seatId": "LL-0116",
+      "position": {
+        "row": 8,
+        "col": 11
+      },
+      "checksum": "44AC96D8",
+      "qrData": {
+        "seatId": "LL-0116",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.424Z",
+        "checksum": "44AC96D8"
+      }
+    },
+    {
+      "seatId": "LL-0117",
+      "position": {
+        "row": 8,
+        "col": 12
+      },
+      "checksum": "6177FEE7",
+      "qrData": {
+        "seatId": "LL-0117",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.439Z",
+        "checksum": "6177FEE7"
+      }
+    },
+    {
+      "seatId": "LL-0118",
+      "position": {
+        "row": 8,
+        "col": 13
+      },
+      "checksum": "079C94A6",
+      "qrData": {
+        "seatId": "LL-0118",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.456Z",
+        "checksum": "079C94A6"
+      }
+    },
+    {
+      "seatId": "LL-0119",
+      "position": {
+        "row": 8,
+        "col": 14
+      },
+      "checksum": "523ED59B",
+      "qrData": {
+        "seatId": "LL-0119",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.470Z",
+        "checksum": "523ED59B"
+      }
+    },
+    {
+      "seatId": "LL-0120",
+      "position": {
+        "row": 8,
+        "col": 15
+      },
+      "checksum": "0B19F731",
+      "qrData": {
+        "seatId": "LL-0120",
+        "zone": "Law",
+        "position": {
+          "row": 8,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.499Z",
+        "checksum": "0B19F731"
+      }
+    },
+    {
+      "seatId": "LL-0121",
+      "position": {
+        "row": 9,
+        "col": 1
+      },
+      "checksum": "64F56172",
+      "qrData": {
+        "seatId": "LL-0121",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.527Z",
+        "checksum": "64F56172"
+      }
+    },
+    {
+      "seatId": "LL-0122",
+      "position": {
+        "row": 9,
+        "col": 2
+      },
+      "checksum": "412F344D",
+      "qrData": {
+        "seatId": "LL-0122",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.545Z",
+        "checksum": "412F344D"
+      }
+    },
+    {
+      "seatId": "LL-0123",
+      "position": {
+        "row": 9,
+        "col": 3
+      },
+      "checksum": "18AC35F4",
+      "qrData": {
+        "seatId": "LL-0123",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.566Z",
+        "checksum": "18AC35F4"
+      }
+    },
+    {
+      "seatId": "LL-0124",
+      "position": {
+        "row": 9,
+        "col": 4
+      },
+      "checksum": "7287A035",
+      "qrData": {
+        "seatId": "LL-0124",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.578Z",
+        "checksum": "7287A035"
+      }
+    },
+    {
+      "seatId": "LL-0125",
+      "position": {
+        "row": 9,
+        "col": 5
+      },
+      "checksum": "339CF58A",
+      "qrData": {
+        "seatId": "LL-0125",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.591Z",
+        "checksum": "339CF58A"
+      }
+    },
+    {
+      "seatId": "LL-0126",
+      "position": {
+        "row": 9,
+        "col": 6
+      },
+      "checksum": "263E74B7",
+      "qrData": {
+        "seatId": "LL-0126",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.604Z",
+        "checksum": "263E74B7"
+      }
+    },
+    {
+      "seatId": "LL-0127",
+      "position": {
+        "row": 9,
+        "col": 7
+      },
+      "checksum": "7FE62108",
+      "qrData": {
+        "seatId": "LL-0127",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.620Z",
+        "checksum": "7FE62108"
+      }
+    },
+    {
+      "seatId": "LL-0128",
+      "position": {
+        "row": 9,
+        "col": 8
+      },
+      "checksum": "260AB6C7",
+      "qrData": {
+        "seatId": "LL-0128",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.638Z",
+        "checksum": "260AB6C7"
+      }
+    },
+    {
+      "seatId": "LL-0129",
+      "position": {
+        "row": 9,
+        "col": 9
+      },
+      "checksum": "33D0B37A",
+      "qrData": {
+        "seatId": "LL-0129",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.652Z",
+        "checksum": "33D0B37A"
+      }
+    },
+    {
+      "seatId": "LL-0130",
+      "position": {
+        "row": 9,
+        "col": 10
+      },
+      "checksum": "13542AF0",
+      "qrData": {
+        "seatId": "LL-0130",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.663Z",
+        "checksum": "13542AF0"
+      }
+    },
+    {
+      "seatId": "LL-0131",
+      "position": {
+        "row": 9,
+        "col": 11
+      },
+      "checksum": "46873F51",
+      "qrData": {
+        "seatId": "LL-0131",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.677Z",
+        "checksum": "46873F51"
+      }
+    },
+    {
+      "seatId": "LL-0132",
+      "position": {
+        "row": 9,
+        "col": 12
+      },
+      "checksum": "5F9D566E",
+      "qrData": {
+        "seatId": "LL-0132",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.696Z",
+        "checksum": "5F9D566E"
+      }
+    },
+    {
+      "seatId": "LL-0133",
+      "position": {
+        "row": 9,
+        "col": 13
+      },
+      "checksum": "05C1EC2D",
+      "qrData": {
+        "seatId": "LL-0133",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.718Z",
+        "checksum": "05C1EC2D"
+      }
+    },
+    {
+      "seatId": "LL-0134",
+      "position": {
+        "row": 9,
+        "col": 14
+      },
+      "checksum": "54197E14",
+      "qrData": {
+        "seatId": "LL-0134",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.729Z",
+        "checksum": "54197E14"
+      }
+    },
+    {
+      "seatId": "LL-0135",
+      "position": {
+        "row": 9,
+        "col": 15
+      },
+      "checksum": "520B17AB",
+      "qrData": {
+        "seatId": "LL-0135",
+        "zone": "Law",
+        "position": {
+          "row": 9,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.741Z",
+        "checksum": "520B17AB"
+      }
+    },
+    {
+      "seatId": "LL-0136",
+      "position": {
+        "row": 10,
+        "col": 1
+      },
+      "checksum": "07D05296",
+      "qrData": {
+        "seatId": "LL-0136",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.759Z",
+        "checksum": "07D05296"
+      }
+    },
+    {
+      "seatId": "LL-0137",
+      "position": {
+        "row": 10,
+        "col": 2
+      },
+      "checksum": "61ABBCD7",
+      "qrData": {
+        "seatId": "LL-0137",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.771Z",
+        "checksum": "61ABBCD7"
+      }
+    },
+    {
+      "seatId": "LL-0138",
+      "position": {
+        "row": 10,
+        "col": 3
+      },
+      "checksum": "4478D8E8",
+      "qrData": {
+        "seatId": "LL-0138",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.788Z",
+        "checksum": "4478D8E8"
+      }
+    },
+    {
+      "seatId": "LL-0139",
+      "position": {
+        "row": 10,
+        "col": 4
+      },
+      "checksum": "15629159",
+      "qrData": {
+        "seatId": "LL-0139",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.800Z",
+        "checksum": "15629159"
+      }
+    },
+    {
+      "seatId": "LL-0140",
+      "position": {
+        "row": 10,
+        "col": 5
+      },
+      "checksum": "31C24D11",
+      "qrData": {
+        "seatId": "LL-0140",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.818Z",
+        "checksum": "31C24D11"
+      }
+    },
+    {
+      "seatId": "LL-0141",
+      "position": {
+        "row": 10,
+        "col": 6
+      },
+      "checksum": "28191D30",
+      "qrData": {
+        "seatId": "LL-0141",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.837Z",
+        "checksum": "28191D30"
+      }
+    },
+    {
+      "seatId": "LL-0142",
+      "position": {
+        "row": 10,
+        "col": 7
+      },
+      "checksum": "7E0B788F",
+      "qrData": {
+        "seatId": "LL-0142",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.850Z",
+        "checksum": "7E0B788F"
+      }
+    },
+    {
+      "seatId": "LL-0143",
+      "position": {
+        "row": 10,
+        "col": 8
+      },
+      "checksum": "24300E4E",
+      "qrData": {
+        "seatId": "LL-0143",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.863Z",
+        "checksum": "24300E4E"
+      }
+    },
+    {
+      "seatId": "LL-0144",
+      "position": {
+        "row": 10,
+        "col": 9
+      },
+      "checksum": "35AB5BF3",
+      "qrData": {
+        "seatId": "LL-0144",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.875Z",
+        "checksum": "35AB5BF3"
+      }
+    },
+    {
+      "seatId": "LL-0145",
+      "position": {
+        "row": 10,
+        "col": 10
+      },
+      "checksum": "707939CC",
+      "qrData": {
+        "seatId": "LL-0145",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.889Z",
+        "checksum": "707939CC"
+      }
+    },
+    {
+      "seatId": "LL-0146",
+      "position": {
+        "row": 10,
+        "col": 11
+      },
+      "checksum": "169DCF8B",
+      "qrData": {
+        "seatId": "LL-0146",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.902Z",
+        "checksum": "169DCF8B"
+      }
+    },
+    {
+      "seatId": "LL-0147",
+      "position": {
+        "row": 10,
+        "col": 12
+      },
+      "checksum": "433D9AB6",
+      "qrData": {
+        "seatId": "LL-0147",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.915Z",
+        "checksum": "433D9AB6"
+      }
+    },
+    {
+      "seatId": "LL-0148",
+      "position": {
+        "row": 10,
+        "col": 13
+      },
+      "checksum": "62E6FB09",
+      "qrData": {
+        "seatId": "LL-0148",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.927Z",
+        "checksum": "62E6FB09"
+      }
+    },
+    {
+      "seatId": "LL-0149",
+      "position": {
+        "row": 10,
+        "col": 14
+      },
+      "checksum": "090B90C8",
+      "qrData": {
+        "seatId": "LL-0149",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.939Z",
+        "checksum": "090B90C8"
+      }
+    },
+    {
+      "seatId": "LL-0150",
+      "position": {
+        "row": 10,
+        "col": 15
+      },
+      "checksum": "50306F32",
+      "qrData": {
+        "seatId": "LL-0150",
+        "zone": "Law",
+        "position": {
+          "row": 10,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.953Z",
+        "checksum": "50306F32"
+      }
+    },
+    {
+      "seatId": "LL-0151",
+      "position": {
+        "row": 11,
+        "col": 1
+      },
+      "checksum": "09AAFB0F",
+      "qrData": {
+        "seatId": "LL-0151",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.964Z",
+        "checksum": "09AAFB0F"
+      }
+    },
+    {
+      "seatId": "LL-0152",
+      "position": {
+        "row": 11,
+        "col": 2
+      },
+      "checksum": "63866550",
+      "qrData": {
+        "seatId": "LL-0152",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.981Z",
+        "checksum": "63866550"
+      }
+    },
+    {
+      "seatId": "LL-0153",
+      "position": {
+        "row": 11,
+        "col": 3
+      },
+      "checksum": "429E306F",
+      "qrData": {
+        "seatId": "LL-0153",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:30.999Z",
+        "checksum": "429E306F"
+      }
+    },
+    {
+      "seatId": "LL-0154",
+      "position": {
+        "row": 11,
+        "col": 4
+      },
+      "checksum": "173D39D2",
+      "qrData": {
+        "seatId": "LL-0154",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.011Z",
+        "checksum": "173D39D2"
+      }
+    },
+    {
+      "seatId": "LL-0155",
+      "position": {
+        "row": 11,
+        "col": 5
+      },
+      "checksum": "7118A413",
+      "qrData": {
+        "seatId": "LL-0155",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.023Z",
+        "checksum": "7118A413"
+      }
+    },
+    {
+      "seatId": "LL-0156",
+      "position": {
+        "row": 11,
+        "col": 6
+      },
+      "checksum": "350BF1AC",
+      "qrData": {
+        "seatId": "LL-0156",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.037Z",
+        "checksum": "350BF1AC"
+      }
+    },
+    {
+      "seatId": "LL-0157",
+      "position": {
+        "row": 11,
+        "col": 7
+      },
+      "checksum": "24CF7895",
+      "qrData": {
+        "seatId": "LL-0157",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.048Z",
+        "checksum": "24CF7895"
+      }
+    },
+    {
+      "seatId": "LL-0158",
+      "position": {
+        "row": 11,
+        "col": 8
+      },
+      "checksum": "7EAAE2D6",
+      "qrData": {
+        "seatId": "LL-0158",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.062Z",
+        "checksum": "7EAAE2D6"
+      }
+    },
+    {
+      "seatId": "LL-0159",
+      "position": {
+        "row": 11,
+        "col": 9
+      },
+      "checksum": "2779B2E9",
+      "qrData": {
+        "seatId": "LL-0159",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.076Z",
+        "checksum": "2779B2E9"
+      }
+    },
+    {
+      "seatId": "LL-0160",
+      "position": {
+        "row": 11,
+        "col": 10
+      },
+      "checksum": "6E9E9153",
+      "qrData": {
+        "seatId": "LL-0160",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.104Z",
+        "checksum": "6E9E9153"
+      }
+    },
+    {
+      "seatId": "LL-0161",
+      "position": {
+        "row": 11,
+        "col": 11
+      },
+      "checksum": "14C32712",
+      "qrData": {
+        "seatId": "LL-0161",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.116Z",
+        "checksum": "14C32712"
+      }
+    },
+    {
+      "seatId": "LL-0162",
+      "position": {
+        "row": 11,
+        "col": 12
+      },
+      "checksum": "4518432F",
+      "qrData": {
+        "seatId": "LL-0162",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.128Z",
+        "checksum": "4518432F"
+      }
+    },
+    {
+      "seatId": "LL-0163",
+      "position": {
+        "row": 11,
+        "col": 13
+      },
+      "checksum": "610C5290",
+      "qrData": {
+        "seatId": "LL-0163",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.142Z",
+        "checksum": "610C5290"
+      }
+    },
+    {
+      "seatId": "LL-0164",
+      "position": {
+        "row": 11,
+        "col": 14
+      },
+      "checksum": "0730E84F",
+      "qrData": {
+        "seatId": "LL-0164",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.156Z",
+        "checksum": "0730E84F"
+      }
+    },
+    {
+      "seatId": "LL-0165",
+      "position": {
+        "row": 11,
+        "col": 15
+      },
+      "checksum": "52AA81F2",
+      "qrData": {
+        "seatId": "LL-0165",
+        "zone": "Law",
+        "position": {
+          "row": 11,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.168Z",
+        "checksum": "52AA81F2"
+      }
+    },
+    {
+      "seatId": "LL-0166",
+      "position": {
+        "row": 12,
+        "col": 1
+      },
+      "checksum": "537A13CD",
+      "qrData": {
+        "seatId": "LL-0166",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.180Z",
+        "checksum": "537A13CD"
+      }
+    },
+    {
+      "seatId": "LL-0167",
+      "position": {
+        "row": 12,
+        "col": 2
+      },
+      "checksum": "06615674",
+      "qrData": {
+        "seatId": "LL-0167",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.192Z",
+        "checksum": "06615674"
+      }
+    },
+    {
+      "seatId": "LL-0168",
+      "position": {
+        "row": 12,
+        "col": 3
+      },
+      "checksum": "603CC0B5",
+      "qrData": {
+        "seatId": "LL-0168",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.204Z",
+        "checksum": "603CC0B5"
+      }
+    },
+    {
+      "seatId": "LL-0169",
+      "position": {
+        "row": 12,
+        "col": 4
+      },
+      "checksum": "45E7D50A",
+      "qrData": {
+        "seatId": "LL-0169",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.216Z",
+        "checksum": "45E7D50A"
+      }
+    },
+    {
+      "seatId": "LL-0170",
+      "position": {
+        "row": 12,
+        "col": 5
+      },
+      "checksum": "72F34C8C",
+      "qrData": {
+        "seatId": "LL-0170",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.229Z",
+        "checksum": "72F34C8C"
+      }
+    },
+    {
+      "seatId": "LL-0171",
+      "position": {
+        "row": 12,
+        "col": 6
+      },
+      "checksum": "33314933",
+      "qrData": {
+        "seatId": "LL-0171",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.240Z",
+        "checksum": "33314933"
+      }
+    },
+    {
+      "seatId": "LL-0172",
+      "position": {
+        "row": 12,
+        "col": 7
+      },
+      "checksum": "26AA210E",
+      "qrData": {
+        "seatId": "LL-0172",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.255Z",
+        "checksum": "26AA210E"
+      }
+    },
+    {
+      "seatId": "LL-0173",
+      "position": {
+        "row": 12,
+        "col": 8
+      },
+      "checksum": "7F7A74B1",
+      "qrData": {
+        "seatId": "LL-0173",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.268Z",
+        "checksum": "7F7A74B1"
+      }
+    },
+    {
+      "seatId": "LL-0174",
+      "position": {
+        "row": 12,
+        "col": 9
+      },
+      "checksum": "259F0A70",
+      "qrData": {
+        "seatId": "LL-0174",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.280Z",
+        "checksum": "259F0A70"
+      }
+    },
+    {
+      "seatId": "LL-0175",
+      "position": {
+        "row": 12,
+        "col": 10
+      },
+      "checksum": "343C5FD1",
+      "qrData": {
+        "seatId": "LL-0175",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.294Z",
+        "checksum": "343C5FD1"
+      }
+    },
+    {
+      "seatId": "LL-0176",
+      "position": {
+        "row": 12,
+        "col": 11
+      },
+      "checksum": "71E835EE",
+      "qrData": {
+        "seatId": "LL-0176",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.307Z",
+        "checksum": "71E835EE"
+      }
+    },
+    {
+      "seatId": "LL-0177",
+      "position": {
+        "row": 12,
+        "col": 12
+      },
+      "checksum": "180CCBAD",
+      "qrData": {
+        "seatId": "LL-0177",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.320Z",
+        "checksum": "180CCBAD"
+      }
+    },
+    {
+      "seatId": "LL-0178",
+      "position": {
+        "row": 12,
+        "col": 13
+      },
+      "checksum": "41CE9E94",
+      "qrData": {
+        "seatId": "LL-0178",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.332Z",
+        "checksum": "41CE9E94"
+      }
+    },
+    {
+      "seatId": "LL-0179",
+      "position": {
+        "row": 12,
+        "col": 14
+      },
+      "checksum": "6455F72B",
+      "qrData": {
+        "seatId": "LL-0179",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.344Z",
+        "checksum": "6455F72B"
+      }
+    },
+    {
+      "seatId": "LL-0180",
+      "position": {
+        "row": 12,
+        "col": 15
+      },
+      "checksum": "54852A6B",
+      "qrData": {
+        "seatId": "LL-0180",
+        "zone": "Law",
+        "position": {
+          "row": 12,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.355Z",
+        "checksum": "54852A6B"
+      }
+    },
+    {
+      "seatId": "LL-0181",
+      "position": {
+        "row": 13,
+        "col": 1
+      },
+      "checksum": "519F6B54",
+      "qrData": {
+        "seatId": "LL-0181",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.366Z",
+        "checksum": "519F6B54"
+      }
+    },
+    {
+      "seatId": "LL-0182",
+      "position": {
+        "row": 13,
+        "col": 2
+      },
+      "checksum": "083BFEED",
+      "qrData": {
+        "seatId": "LL-0182",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.376Z",
+        "checksum": "083BFEED"
+      }
+    },
+    {
+      "seatId": "LL-0183",
+      "position": {
+        "row": 13,
+        "col": 3
+      },
+      "checksum": "6217692E",
+      "qrData": {
+        "seatId": "LL-0183",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.388Z",
+        "checksum": "6217692E"
+      }
+    },
+    {
+      "seatId": "LL-0184",
+      "position": {
+        "row": 13,
+        "col": 4
+      },
+      "checksum": "440D2C91",
+      "qrData": {
+        "seatId": "LL-0184",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.402Z",
+        "checksum": "440D2C91"
+      }
+    },
+    {
+      "seatId": "LL-0185",
+      "position": {
+        "row": 13,
+        "col": 5
+      },
+      "checksum": "15CE3DB0",
+      "qrData": {
+        "seatId": "LL-0185",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.412Z",
+        "checksum": "15CE3DB0"
+      }
+    },
+    {
+      "seatId": "LL-0186",
+      "position": {
+        "row": 13,
+        "col": 6
+      },
+      "checksum": "6FA9A7F1",
+      "qrData": {
+        "seatId": "LL-0186",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.422Z",
+        "checksum": "6FA9A7F1"
+      }
+    },
+    {
+      "seatId": "LL-0187",
+      "position": {
+        "row": 13,
+        "col": 7
+      },
+      "checksum": "367AEDCE",
+      "qrData": {
+        "seatId": "LL-0187",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.433Z",
+        "checksum": "367AEDCE"
+      }
+    },
+    {
+      "seatId": "LL-0188",
+      "position": {
+        "row": 13,
+        "col": 8
+      },
+      "checksum": "23607C73",
+      "qrData": {
+        "seatId": "LL-0188",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.443Z",
+        "checksum": "23607C73"
+      }
+    },
+    {
+      "seatId": "LL-0189",
+      "position": {
+        "row": 13,
+        "col": 9
+      },
+      "checksum": "7D3BE6B4",
+      "qrData": {
+        "seatId": "LL-0189",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.452Z",
+        "checksum": "7D3BE6B4"
+      }
+    },
+    {
+      "seatId": "LL-0190",
+      "position": {
+        "row": 13,
+        "col": 10
+      },
+      "checksum": "3617084A",
+      "qrData": {
+        "seatId": "LL-0190",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.462Z",
+        "checksum": "3617084A"
+      }
+    },
+    {
+      "seatId": "LL-0191",
+      "position": {
+        "row": 13,
+        "col": 11
+      },
+      "checksum": "700D8D75",
+      "qrData": {
+        "seatId": "LL-0191",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.470Z",
+        "checksum": "700D8D75"
+      }
+    },
+    {
+      "seatId": "LL-0192",
+      "position": {
+        "row": 13,
+        "col": 12
+      },
+      "checksum": "16322334",
+      "qrData": {
+        "seatId": "LL-0192",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.479Z",
+        "checksum": "16322334"
+      }
+    },
+    {
+      "seatId": "LL-0193",
+      "position": {
+        "row": 13,
+        "col": 13
+      },
+      "checksum": "43A9470D",
+      "qrData": {
+        "seatId": "LL-0193",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.487Z",
+        "checksum": "43A9470D"
+      }
+    },
+    {
+      "seatId": "LL-0194",
+      "position": {
+        "row": 13,
+        "col": 14
+      },
+      "checksum": "627B4EB2",
+      "qrData": {
+        "seatId": "LL-0194",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.496Z",
+        "checksum": "627B4EB2"
+      }
+    },
+    {
+      "seatId": "LL-0195",
+      "position": {
+        "row": 13,
+        "col": 15
+      },
+      "checksum": "089FE471",
+      "qrData": {
+        "seatId": "LL-0195",
+        "zone": "Law",
+        "position": {
+          "row": 13,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.504Z",
+        "checksum": "089FE471"
+      }
+    },
+    {
+      "seatId": "LL-0196",
+      "position": {
+        "row": 14,
+        "col": 1
+      },
+      "checksum": "513B85D0",
+      "qrData": {
+        "seatId": "LL-0196",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.514Z",
+        "checksum": "513B85D0"
+      }
+    },
+    {
+      "seatId": "LL-0197",
+      "position": {
+        "row": 14,
+        "col": 2
+      },
+      "checksum": "54E90FEF",
+      "qrData": {
+        "seatId": "LL-0197",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.524Z",
+        "checksum": "54E90FEF"
+      }
+    },
+    {
+      "seatId": "LL-0198",
+      "position": {
+        "row": 14,
+        "col": 3
+      },
+      "checksum": "04F25A52",
+      "qrData": {
+        "seatId": "LL-0198",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.535Z",
+        "checksum": "04F25A52"
+      }
+    },
+    {
+      "seatId": "LL-0199",
+      "position": {
+        "row": 14,
+        "col": 4
+      },
+      "checksum": "5ECDC493",
+      "qrData": {
+        "seatId": "LL-0199",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.551Z",
+        "checksum": "5ECDC493"
+      }
+    },
+    {
+      "seatId": "LL-0200",
+      "position": {
+        "row": 14,
+        "col": 5
+      },
+      "checksum": "675FE68C",
+      "qrData": {
+        "seatId": "LL-0200",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.582Z",
+        "checksum": "675FE68C"
+      }
+    },
+    {
+      "seatId": "LL-0201",
+      "position": {
+        "row": 14,
+        "col": 6
+      },
+      "checksum": "0D847C4B",
+      "qrData": {
+        "seatId": "LL-0201",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.618Z",
+        "checksum": "0D847C4B"
+      }
+    },
+    {
+      "seatId": "LL-0202",
+      "position": {
+        "row": 14,
+        "col": 7
+      },
+      "checksum": "4C56EDF6",
+      "qrData": {
+        "seatId": "LL-0202",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.634Z",
+        "checksum": "4C56EDF6"
+      }
+    },
+    {
+      "seatId": "LL-0203",
+      "position": {
+        "row": 14,
+        "col": 8
+      },
+      "checksum": "59CDA7C9",
+      "qrData": {
+        "seatId": "LL-0203",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.648Z",
+        "checksum": "59CDA7C9"
+      }
+    },
+    {
+      "seatId": "LL-0204",
+      "position": {
+        "row": 14,
+        "col": 9
+      },
+      "checksum": "000DC278",
+      "qrData": {
+        "seatId": "LL-0204",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.662Z",
+        "checksum": "000DC278"
+      }
+    },
+    {
+      "seatId": "LL-0205",
+      "position": {
+        "row": 14,
+        "col": 10
+      },
+      "checksum": "59E92CB9",
+      "qrData": {
+        "seatId": "LL-0205",
+        "zone": "Law",
+        "position": {
+          "row": 14,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Law Library",
+        "timestamp": "2026-03-18T10:46:31.677Z",
+        "checksum": "59E92CB9"
+      }
+    }
+  ],
+  "generatedAt": "2026-03-18T10:46:31.696Z"
+}

@@ -1,0 +1,2107 @@
+{
+  "zone": "Central",
+  "totalSeats": 105,
+  "seats": [
+    {
+      "seatId": "CL-0001",
+      "position": {
+        "row": 1,
+        "col": 1
+      },
+      "checksum": "20519DF7",
+      "qrData": {
+        "seatId": "CL-0001",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.698Z",
+        "checksum": "20519DF7"
+      }
+    },
+    {
+      "seatId": "CL-0002",
+      "position": {
+        "row": 1,
+        "col": 2
+      },
+      "checksum": "12040048",
+      "qrData": {
+        "seatId": "CL-0002",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.711Z",
+        "checksum": "12040048"
+      }
+    },
+    {
+      "seatId": "CL-0003",
+      "position": {
+        "row": 1,
+        "col": 3
+      },
+      "checksum": "44599E87",
+      "qrData": {
+        "seatId": "CL-0003",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.728Z",
+        "checksum": "44599E87"
+      }
+    },
+    {
+      "seatId": "CL-0004",
+      "position": {
+        "row": 1,
+        "col": 4
+      },
+      "checksum": "76AF3CC6",
+      "qrData": {
+        "seatId": "CL-0004",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.741Z",
+        "checksum": "76AF3CC6"
+      }
+    },
+    {
+      "seatId": "CL-0005",
+      "position": {
+        "row": 1,
+        "col": 5
+      },
+      "checksum": "56FB24FB",
+      "qrData": {
+        "seatId": "CL-0005",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.760Z",
+        "checksum": "56FB24FB"
+      }
+    },
+    {
+      "seatId": "CL-0006",
+      "position": {
+        "row": 1,
+        "col": 6
+      },
+      "checksum": "24A586BC",
+      "qrData": {
+        "seatId": "CL-0006",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.778Z",
+        "checksum": "24A586BC"
+      }
+    },
+    {
+      "seatId": "CL-0007",
+      "position": {
+        "row": 1,
+        "col": 7
+      },
+      "checksum": "0DB01783",
+      "qrData": {
+        "seatId": "CL-0007",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.797Z",
+        "checksum": "0DB01783"
+      }
+    },
+    {
+      "seatId": "CL-0008",
+      "position": {
+        "row": 1,
+        "col": 8
+      },
+      "checksum": "4005B5C2",
+      "qrData": {
+        "seatId": "CL-0008",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.813Z",
+        "checksum": "4005B5C2"
+      }
+    },
+    {
+      "seatId": "CL-0009",
+      "position": {
+        "row": 1,
+        "col": 9
+      },
+      "checksum": "725B5401",
+      "qrData": {
+        "seatId": "CL-0009",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.830Z",
+        "checksum": "725B5401"
+      }
+    },
+    {
+      "seatId": "CL-0010",
+      "position": {
+        "row": 1,
+        "col": 10
+      },
+      "checksum": "3A491295",
+      "qrData": {
+        "seatId": "CL-0010",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.845Z",
+        "checksum": "3A491295"
+      }
+    },
+    {
+      "seatId": "CL-0011",
+      "position": {
+        "row": 1,
+        "col": 11
+      },
+      "checksum": "07F37456",
+      "qrData": {
+        "seatId": "CL-0011",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.863Z",
+        "checksum": "07F37456"
+      }
+    },
+    {
+      "seatId": "CL-0012",
+      "position": {
+        "row": 1,
+        "col": 12
+      },
+      "checksum": "2A6229E9",
+      "qrData": {
+        "seatId": "CL-0012",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.880Z",
+        "checksum": "2A6229E9"
+      }
+    },
+    {
+      "seatId": "CL-0013",
+      "position": {
+        "row": 1,
+        "col": 13
+      },
+      "checksum": "5CB7C828",
+      "qrData": {
+        "seatId": "CL-0013",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.902Z",
+        "checksum": "5CB7C828"
+      }
+    },
+    {
+      "seatId": "CL-0014",
+      "position": {
+        "row": 1,
+        "col": 14
+      },
+      "checksum": "70F29999",
+      "qrData": {
+        "seatId": "CL-0014",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.919Z",
+        "checksum": "70F29999"
+      }
+    },
+    {
+      "seatId": "CL-0015",
+      "position": {
+        "row": 1,
+        "col": 15
+      },
+      "checksum": "3E9CFB5A",
+      "qrData": {
+        "seatId": "CL-0015",
+        "zone": "Central",
+        "position": {
+          "row": 1,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.937Z",
+        "checksum": "3E9CFB5A"
+      }
+    },
+    {
+      "seatId": "CL-0016",
+      "position": {
+        "row": 2,
+        "col": 1
+      },
+      "checksum": "0C475D1B",
+      "qrData": {
+        "seatId": "CL-0016",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.951Z",
+        "checksum": "0C475D1B"
+      }
+    },
+    {
+      "seatId": "CL-0017",
+      "position": {
+        "row": 2,
+        "col": 2
+      },
+      "checksum": "260E4124",
+      "qrData": {
+        "seatId": "CL-0017",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.965Z",
+        "checksum": "260E4124"
+      }
+    },
+    {
+      "seatId": "CL-0018",
+      "position": {
+        "row": 2,
+        "col": 3
+      },
+      "checksum": "5863DF63",
+      "qrData": {
+        "seatId": "CL-0018",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.981Z",
+        "checksum": "5863DF63"
+      }
+    },
+    {
+      "seatId": "CL-0019",
+      "position": {
+        "row": 2,
+        "col": 4
+      },
+      "checksum": "7546825E",
+      "qrData": {
+        "seatId": "CL-0019",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:31.993Z",
+        "checksum": "7546825E"
+      }
+    },
+    {
+      "seatId": "CL-0020",
+      "position": {
+        "row": 2,
+        "col": 5
+      },
+      "checksum": "21EAE8F4",
+      "qrData": {
+        "seatId": "CL-0020",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.006Z",
+        "checksum": "21EAE8F4"
+      }
+    },
+    {
+      "seatId": "CL-0021",
+      "position": {
+        "row": 2,
+        "col": 6
+      },
+      "checksum": "106AB54B",
+      "qrData": {
+        "seatId": "CL-0021",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.023Z",
+        "checksum": "106AB54B"
+      }
+    },
+    {
+      "seatId": "CL-0022",
+      "position": {
+        "row": 2,
+        "col": 7
+      },
+      "checksum": "42C0538A",
+      "qrData": {
+        "seatId": "CL-0022",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.039Z",
+        "checksum": "42C0538A"
+      }
+    },
+    {
+      "seatId": "CL-0023",
+      "position": {
+        "row": 2,
+        "col": 8
+      },
+      "checksum": "7515F1C9",
+      "qrData": {
+        "seatId": "CL-0023",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.058Z",
+        "checksum": "7515F1C9"
+      }
+    },
+    {
+      "seatId": "CL-0024",
+      "position": {
+        "row": 2,
+        "col": 9
+      },
+      "checksum": "58946FF8",
+      "qrData": {
+        "seatId": "CL-0024",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.072Z",
+        "checksum": "58946FF8"
+      }
+    },
+    {
+      "seatId": "CL-0025",
+      "position": {
+        "row": 2,
+        "col": 10
+      },
+      "checksum": "263ED1B9",
+      "qrData": {
+        "seatId": "CL-0025",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.088Z",
+        "checksum": "263ED1B9"
+      }
+    },
+    {
+      "seatId": "CL-0026",
+      "position": {
+        "row": 2,
+        "col": 11
+      },
+      "checksum": "0C16CC86",
+      "qrData": {
+        "seatId": "CL-0026",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.099Z",
+        "checksum": "0C16CC86"
+      }
+    },
+    {
+      "seatId": "CL-0027",
+      "position": {
+        "row": 2,
+        "col": 12
+      },
+      "checksum": "3E6C6AC5",
+      "qrData": {
+        "seatId": "CL-0027",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.112Z",
+        "checksum": "3E6C6AC5"
+      }
+    },
+    {
+      "seatId": "CL-0028",
+      "position": {
+        "row": 2,
+        "col": 13
+      },
+      "checksum": "70C20904",
+      "qrData": {
+        "seatId": "CL-0028",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.124Z",
+        "checksum": "70C20904"
+      }
+    },
+    {
+      "seatId": "CL-0029",
+      "position": {
+        "row": 2,
+        "col": 14
+      },
+      "checksum": "5CE858BD",
+      "qrData": {
+        "seatId": "CL-0029",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.138Z",
+        "checksum": "5CE858BD"
+      }
+    },
+    {
+      "seatId": "CL-0030",
+      "position": {
+        "row": 2,
+        "col": 15
+      },
+      "checksum": "098CBF53",
+      "qrData": {
+        "seatId": "CL-0030",
+        "zone": "Central",
+        "position": {
+          "row": 2,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.151Z",
+        "checksum": "098CBF53"
+      }
+    },
+    {
+      "seatId": "CL-0031",
+      "position": {
+        "row": 3,
+        "col": 1
+      },
+      "checksum": "28C8DEEC",
+      "qrData": {
+        "seatId": "CL-0031",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.163Z",
+        "checksum": "28C8DEEC"
+      }
+    },
+    {
+      "seatId": "CL-0032",
+      "position": {
+        "row": 3,
+        "col": 2
+      },
+      "checksum": "5B1E7D2B",
+      "qrData": {
+        "seatId": "CL-0032",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.178Z",
+        "checksum": "5B1E7D2B"
+      }
+    },
+    {
+      "seatId": "CL-0033",
+      "position": {
+        "row": 3,
+        "col": 3
+      },
+      "checksum": "728BE496",
+      "qrData": {
+        "seatId": "CL-0033",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.189Z",
+        "checksum": "728BE496"
+      }
+    },
+    {
+      "seatId": "CL-0034",
+      "position": {
+        "row": 3,
+        "col": 4
+      },
+      "checksum": "40364657",
+      "qrData": {
+        "seatId": "CL-0034",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.203Z",
+        "checksum": "40364657"
+      }
+    },
+    {
+      "seatId": "CL-0035",
+      "position": {
+        "row": 3,
+        "col": 5
+      },
+      "checksum": "0DE0A818",
+      "qrData": {
+        "seatId": "CL-0035",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.215Z",
+        "checksum": "0DE0A818"
+      }
+    },
+    {
+      "seatId": "CL-0036",
+      "position": {
+        "row": 3,
+        "col": 6
+      },
+      "checksum": "2474F627",
+      "qrData": {
+        "seatId": "CL-0036",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.232Z",
+        "checksum": "2474F627"
+      }
+    },
+    {
+      "seatId": "CL-0037",
+      "position": {
+        "row": 3,
+        "col": 7
+      },
+      "checksum": "56CA9466",
+      "qrData": {
+        "seatId": "CL-0037",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.247Z",
+        "checksum": "56CA9466"
+      }
+    },
+    {
+      "seatId": "CL-0038",
+      "position": {
+        "row": 3,
+        "col": 8
+      },
+      "checksum": "76DFCD5B",
+      "qrData": {
+        "seatId": "CL-0038",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.260Z",
+        "checksum": "76DFCD5B"
+      }
+    },
+    {
+      "seatId": "CL-0039",
+      "position": {
+        "row": 3,
+        "col": 9
+      },
+      "checksum": "448A2F1C",
+      "qrData": {
+        "seatId": "CL-0039",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.272Z",
+        "checksum": "448A2F1C"
+      }
+    },
+    {
+      "seatId": "CL-0040",
+      "position": {
+        "row": 3,
+        "col": 10
+      },
+      "checksum": "0ED16A4E",
+      "qrData": {
+        "seatId": "CL-0040",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.285Z",
+        "checksum": "0ED16A4E"
+      }
+    },
+    {
+      "seatId": "CL-0041",
+      "position": {
+        "row": 3,
+        "col": 11
+      },
+      "checksum": "4127088D",
+      "qrData": {
+        "seatId": "CL-0041",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.298Z",
+        "checksum": "4127088D"
+      }
+    },
+    {
+      "seatId": "CL-0042",
+      "position": {
+        "row": 3,
+        "col": 12
+      },
+      "checksum": "737CA6CC",
+      "qrData": {
+        "seatId": "CL-0042",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.311Z",
+        "checksum": "737CA6CC"
+      }
+    },
+    {
+      "seatId": "CL-0043",
+      "position": {
+        "row": 3,
+        "col": 13
+      },
+      "checksum": "5A2DBAF5",
+      "qrData": {
+        "seatId": "CL-0043",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.327Z",
+        "checksum": "5A2DBAF5"
+      }
+    },
+    {
+      "seatId": "CL-0044",
+      "position": {
+        "row": 3,
+        "col": 14
+      },
+      "checksum": "27D81CB6",
+      "qrData": {
+        "seatId": "CL-0044",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.338Z",
+        "checksum": "27D81CB6"
+      }
+    },
+    {
+      "seatId": "CL-0045",
+      "position": {
+        "row": 3,
+        "col": 15
+      },
+      "checksum": "0A7D8189",
+      "qrData": {
+        "seatId": "CL-0045",
+        "zone": "Central",
+        "position": {
+          "row": 3,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.351Z",
+        "checksum": "0A7D8189"
+      }
+    },
+    {
+      "seatId": "CL-0046",
+      "position": {
+        "row": 4,
+        "col": 1
+      },
+      "checksum": "3CD31FC8",
+      "qrData": {
+        "seatId": "CL-0046",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.364Z",
+        "checksum": "3CD31FC8"
+      }
+    },
+    {
+      "seatId": "CL-0047",
+      "position": {
+        "row": 4,
+        "col": 2
+      },
+      "checksum": "6F28BE07",
+      "qrData": {
+        "seatId": "CL-0047",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.378Z",
+        "checksum": "6F28BE07"
+      }
+    },
+    {
+      "seatId": "CL-0048",
+      "position": {
+        "row": 4,
+        "col": 3
+      },
+      "checksum": "5E81A3BA",
+      "qrData": {
+        "seatId": "CL-0048",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.389Z",
+        "checksum": "5E81A3BA"
+      }
+    },
+    {
+      "seatId": "CL-0049",
+      "position": {
+        "row": 4,
+        "col": 4
+      },
+      "checksum": "2C2C057B",
+      "qrData": {
+        "seatId": "CL-0049",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.404Z",
+        "checksum": "2C2C057B"
+      }
+    },
+    {
+      "seatId": "CL-0050",
+      "position": {
+        "row": 4,
+        "col": 5
+      },
+      "checksum": "272F93EF",
+      "qrData": {
+        "seatId": "CL-0050",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.416Z",
+        "checksum": "272F93EF"
+      }
+    },
+    {
+      "seatId": "CL-0051",
+      "position": {
+        "row": 4,
+        "col": 6
+      },
+      "checksum": "5985322E",
+      "qrData": {
+        "seatId": "CL-0051",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.429Z",
+        "checksum": "5985322E"
+      }
+    },
+    {
+      "seatId": "CL-0052",
+      "position": {
+        "row": 4,
+        "col": 7
+      },
+      "checksum": "74252F93",
+      "qrData": {
+        "seatId": "CL-0052",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.440Z",
+        "checksum": "74252F93"
+      }
+    },
+    {
+      "seatId": "CL-0053",
+      "position": {
+        "row": 4,
+        "col": 8
+      },
+      "checksum": "41CF9154",
+      "qrData": {
+        "seatId": "CL-0053",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.453Z",
+        "checksum": "41CF9154"
+      }
+    },
+    {
+      "seatId": "CL-0054",
+      "position": {
+        "row": 4,
+        "col": 9
+      },
+      "checksum": "0F79F315",
+      "qrData": {
+        "seatId": "CL-0054",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.465Z",
+        "checksum": "0F79F315"
+      }
+    },
+    {
+      "seatId": "CL-0055",
+      "position": {
+        "row": 4,
+        "col": 10
+      },
+      "checksum": "22DBAB2A",
+      "qrData": {
+        "seatId": "CL-0055",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.482Z",
+        "checksum": "22DBAB2A"
+      }
+    },
+    {
+      "seatId": "CL-0056",
+      "position": {
+        "row": 4,
+        "col": 11
+      },
+      "checksum": "55314969",
+      "qrData": {
+        "seatId": "CL-0056",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.497Z",
+        "checksum": "55314969"
+      }
+    },
+    {
+      "seatId": "CL-0057",
+      "position": {
+        "row": 4,
+        "col": 12
+      },
+      "checksum": "78791858",
+      "qrData": {
+        "seatId": "CL-0057",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.513Z",
+        "checksum": "78791858"
+      }
+    },
+    {
+      "seatId": "CL-0058",
+      "position": {
+        "row": 4,
+        "col": 13
+      },
+      "checksum": "46237A19",
+      "qrData": {
+        "seatId": "CL-0058",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.528Z",
+        "checksum": "46237A19"
+      }
+    },
+    {
+      "seatId": "CL-0059",
+      "position": {
+        "row": 4,
+        "col": 14
+      },
+      "checksum": "13CDDBDA",
+      "qrData": {
+        "seatId": "CL-0059",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.547Z",
+        "checksum": "13CDDBDA"
+      }
+    },
+    {
+      "seatId": "CL-0060",
+      "position": {
+        "row": 4,
+        "col": 15
+      },
+      "checksum": "3F8DBD90",
+      "qrData": {
+        "seatId": "CL-0060",
+        "zone": "Central",
+        "position": {
+          "row": 4,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.566Z",
+        "checksum": "3F8DBD90"
+      }
+    },
+    {
+      "seatId": "CL-0061",
+      "position": {
+        "row": 5,
+        "col": 1
+      },
+      "checksum": "71E35BCF",
+      "qrData": {
+        "seatId": "CL-0061",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.589Z",
+        "checksum": "71E35BCF"
+      }
+    },
+    {
+      "seatId": "CL-0062",
+      "position": {
+        "row": 5,
+        "col": 2
+      },
+      "checksum": "5BC705F2",
+      "qrData": {
+        "seatId": "CL-0062",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.607Z",
+        "checksum": "5BC705F2"
+      }
+    },
+    {
+      "seatId": "CL-0063",
+      "position": {
+        "row": 5,
+        "col": 3
+      },
+      "checksum": "297167B3",
+      "qrData": {
+        "seatId": "CL-0063",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.622Z",
+        "checksum": "297167B3"
+      }
+    },
+    {
+      "seatId": "CL-0064",
+      "position": {
+        "row": 5,
+        "col": 4
+      },
+      "checksum": "08E4368C",
+      "qrData": {
+        "seatId": "CL-0064",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.637Z",
+        "checksum": "08E4368C"
+      }
+    },
+    {
+      "seatId": "CL-0065",
+      "position": {
+        "row": 5,
+        "col": 5
+      },
+      "checksum": "3B39D4CB",
+      "qrData": {
+        "seatId": "CL-0065",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.655Z",
+        "checksum": "3B39D4CB"
+      }
+    },
+    {
+      "seatId": "CL-0066",
+      "position": {
+        "row": 5,
+        "col": 6
+      },
+      "checksum": "6D8F730A",
+      "qrData": {
+        "seatId": "CL-0066",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.668Z",
+        "checksum": "6D8F730A"
+      }
+    },
+    {
+      "seatId": "CL-0067",
+      "position": {
+        "row": 5,
+        "col": 7
+      },
+      "checksum": "601AEEB7",
+      "qrData": {
+        "seatId": "CL-0067",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.681Z",
+        "checksum": "601AEEB7"
+      }
+    },
+    {
+      "seatId": "CL-0068",
+      "position": {
+        "row": 5,
+        "col": 8
+      },
+      "checksum": "2DC55078",
+      "qrData": {
+        "seatId": "CL-0068",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.696Z",
+        "checksum": "2DC55078"
+      }
+    },
+    {
+      "seatId": "CL-0069",
+      "position": {
+        "row": 5,
+        "col": 9
+      },
+      "checksum": "04904DC7",
+      "qrData": {
+        "seatId": "CL-0069",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.712Z",
+        "checksum": "04904DC7"
+      }
+    },
+    {
+      "seatId": "CL-0070",
+      "position": {
+        "row": 5,
+        "col": 10
+      },
+      "checksum": "57EBE731",
+      "qrData": {
+        "seatId": "CL-0070",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.734Z",
+        "checksum": "57EBE731"
+      }
+    },
+    {
+      "seatId": "CL-0071",
+      "position": {
+        "row": 5,
+        "col": 11
+      },
+      "checksum": "75BE7A90",
+      "qrData": {
+        "seatId": "CL-0071",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.747Z",
+        "checksum": "75BE7A90"
+      }
+    },
+    {
+      "seatId": "CL-0072",
+      "position": {
+        "row": 5,
+        "col": 12
+      },
+      "checksum": "4368DC51",
+      "qrData": {
+        "seatId": "CL-0072",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.763Z",
+        "checksum": "4368DC51"
+      }
+    },
+    {
+      "seatId": "CL-0073",
+      "position": {
+        "row": 5,
+        "col": 13
+      },
+      "checksum": "11133E12",
+      "qrData": {
+        "seatId": "CL-0073",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.778Z",
+        "checksum": "11133E12"
+      }
+    },
+    {
+      "seatId": "CL-0074",
+      "position": {
+        "row": 5,
+        "col": 14
+      },
+      "checksum": "2142602D",
+      "qrData": {
+        "seatId": "CL-0074",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.790Z",
+        "checksum": "2142602D"
+      }
+    },
+    {
+      "seatId": "CL-0075",
+      "position": {
+        "row": 5,
+        "col": 15
+      },
+      "checksum": "5397FE6C",
+      "qrData": {
+        "seatId": "CL-0075",
+        "zone": "Central",
+        "position": {
+          "row": 5,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.804Z",
+        "checksum": "5397FE6C"
+      }
+    },
+    {
+      "seatId": "CL-0076",
+      "position": {
+        "row": 6,
+        "col": 1
+      },
+      "checksum": "7A126355",
+      "qrData": {
+        "seatId": "CL-0076",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.815Z",
+        "checksum": "7A126355"
+      }
+    },
+    {
+      "seatId": "CL-0077",
+      "position": {
+        "row": 6,
+        "col": 2
+      },
+      "checksum": "47BCC516",
+      "qrData": {
+        "seatId": "CL-0077",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.831Z",
+        "checksum": "47BCC516"
+      }
+    },
+    {
+      "seatId": "CL-0078",
+      "position": {
+        "row": 6,
+        "col": 3
+      },
+      "checksum": "156726D7",
+      "qrData": {
+        "seatId": "CL-0078",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.844Z",
+        "checksum": "156726D7"
+      }
+    },
+    {
+      "seatId": "CL-0079",
+      "position": {
+        "row": 6,
+        "col": 4
+      },
+      "checksum": "1CEE7768",
+      "qrData": {
+        "seatId": "CL-0079",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.856Z",
+        "checksum": "1CEE7768"
+      }
+    },
+    {
+      "seatId": "CL-0080",
+      "position": {
+        "row": 6,
+        "col": 5
+      },
+      "checksum": "704A10D2",
+      "qrData": {
+        "seatId": "CL-0080",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.869Z",
+        "checksum": "704A10D2"
+      }
+    },
+    {
+      "seatId": "CL-0081",
+      "position": {
+        "row": 6,
+        "col": 6
+      },
+      "checksum": "5D6050EF",
+      "qrData": {
+        "seatId": "CL-0081",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.881Z",
+        "checksum": "5D6050EF"
+      }
+    },
+    {
+      "seatId": "CL-0082",
+      "position": {
+        "row": 6,
+        "col": 7
+      },
+      "checksum": "2B0AB2B0",
+      "qrData": {
+        "seatId": "CL-0082",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.892Z",
+        "checksum": "2B0AB2B0"
+      }
+    },
+    {
+      "seatId": "CL-0083",
+      "position": {
+        "row": 6,
+        "col": 8
+      },
+      "checksum": "074AEB8F",
+      "qrData": {
+        "seatId": "CL-0083",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.904Z",
+        "checksum": "074AEB8F"
+      }
+    },
+    {
+      "seatId": "CL-0084",
+      "position": {
+        "row": 6,
+        "col": 9
+      },
+      "checksum": "39A089CE",
+      "qrData": {
+        "seatId": "CL-0084",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.915Z",
+        "checksum": "39A089CE"
+      }
+    },
+    {
+      "seatId": "CL-0085",
+      "position": {
+        "row": 6,
+        "col": 10
+      },
+      "checksum": "6BF6280D",
+      "qrData": {
+        "seatId": "CL-0085",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.925Z",
+        "checksum": "6BF6280D"
+      }
+    },
+    {
+      "seatId": "CL-0086",
+      "position": {
+        "row": 6,
+        "col": 11
+      },
+      "checksum": "61B439B4",
+      "qrData": {
+        "seatId": "CL-0086",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.940Z",
+        "checksum": "61B439B4"
+      }
+    },
+    {
+      "seatId": "CL-0087",
+      "position": {
+        "row": 6,
+        "col": 12
+      },
+      "checksum": "2F5E9B75",
+      "qrData": {
+        "seatId": "CL-0087",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.955Z",
+        "checksum": "2F5E9B75"
+      }
+    },
+    {
+      "seatId": "CL-0088",
+      "position": {
+        "row": 6,
+        "col": 13
+      },
+      "checksum": "02F702CA",
+      "qrData": {
+        "seatId": "CL-0088",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.969Z",
+        "checksum": "02F702CA"
+      }
+    },
+    {
+      "seatId": "CL-0089",
+      "position": {
+        "row": 6,
+        "col": 14
+      },
+      "checksum": "354CA109",
+      "qrData": {
+        "seatId": "CL-0089",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.981Z",
+        "checksum": "354CA109"
+      }
+    },
+    {
+      "seatId": "CL-0090",
+      "position": {
+        "row": 6,
+        "col": 15
+      },
+      "checksum": "7757C58D",
+      "qrData": {
+        "seatId": "CL-0090",
+        "zone": "Central",
+        "position": {
+          "row": 6,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:32.994Z",
+        "checksum": "7757C58D"
+      }
+    },
+    {
+      "seatId": "CL-0091",
+      "position": {
+        "row": 7,
+        "col": 1
+      },
+      "checksum": "4502274E",
+      "qrData": {
+        "seatId": "CL-0091",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 1
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.005Z",
+        "checksum": "4502274E"
+      }
+    },
+    {
+      "seatId": "CL-0092",
+      "position": {
+        "row": 7,
+        "col": 2
+      },
+      "checksum": "12AC890F",
+      "qrData": {
+        "seatId": "CL-0092",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 2
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.019Z",
+        "checksum": "12AC890F"
+      }
+    },
+    {
+      "seatId": "CL-0093",
+      "position": {
+        "row": 7,
+        "col": 3
+      },
+      "checksum": "1FA91530",
+      "qrData": {
+        "seatId": "CL-0093",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 3
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.032Z",
+        "checksum": "1FA91530"
+      }
+    },
+    {
+      "seatId": "CL-0094",
+      "position": {
+        "row": 7,
+        "col": 4
+      },
+      "checksum": "51FEB36F",
+      "qrData": {
+        "seatId": "CL-0094",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 4
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.043Z",
+        "checksum": "51FEB36F"
+      }
+    },
+    {
+      "seatId": "CL-0095",
+      "position": {
+        "row": 7,
+        "col": 5
+      },
+      "checksum": "7BABAE52",
+      "qrData": {
+        "seatId": "CL-0095",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 5
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.056Z",
+        "checksum": "7BABAE52"
+      }
+    },
+    {
+      "seatId": "CL-0096",
+      "position": {
+        "row": 7,
+        "col": 6
+      },
+      "checksum": "49561013",
+      "qrData": {
+        "seatId": "CL-0096",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 6
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.070Z",
+        "checksum": "49561013"
+      }
+    },
+    {
+      "seatId": "CL-0097",
+      "position": {
+        "row": 7,
+        "col": 7
+      },
+      "checksum": "170071D4",
+      "qrData": {
+        "seatId": "CL-0097",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 7
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.082Z",
+        "checksum": "170071D4"
+      }
+    },
+    {
+      "seatId": "CL-0098",
+      "position": {
+        "row": 7,
+        "col": 8
+      },
+      "checksum": "1B552C6B",
+      "qrData": {
+        "seatId": "CL-0098",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 8
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.094Z",
+        "checksum": "1B552C6B"
+      }
+    },
+    {
+      "seatId": "CL-0099",
+      "position": {
+        "row": 7,
+        "col": 9
+      },
+      "checksum": "4DAACAAA",
+      "qrData": {
+        "seatId": "CL-0099",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 9
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.108Z",
+        "checksum": "4DAACAAA"
+      }
+    },
+    {
+      "seatId": "CL-0100",
+      "position": {
+        "row": 7,
+        "col": 10
+      },
+      "checksum": "5F4031B7",
+      "qrData": {
+        "seatId": "CL-0100",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 10
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.122Z",
+        "checksum": "5F4031B7"
+      }
+    },
+    {
+      "seatId": "CL-0101",
+      "position": {
+        "row": 7,
+        "col": 11
+      },
+      "checksum": "2CEA9378",
+      "qrData": {
+        "seatId": "CL-0101",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 11
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.135Z",
+        "checksum": "2CEA9378"
+      }
+    },
+    {
+      "seatId": "CL-0102",
+      "position": {
+        "row": 7,
+        "col": 12
+      },
+      "checksum": "056B0AC7",
+      "qrData": {
+        "seatId": "CL-0102",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 12
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.148Z",
+        "checksum": "056B0AC7"
+      }
+    },
+    {
+      "seatId": "CL-0103",
+      "position": {
+        "row": 7,
+        "col": 13
+      },
+      "checksum": "37C0A906",
+      "qrData": {
+        "seatId": "CL-0103",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 13
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.161Z",
+        "checksum": "37C0A906"
+      }
+    },
+    {
+      "seatId": "CL-0104",
+      "position": {
+        "row": 7,
+        "col": 14
+      },
+      "checksum": "6A164745",
+      "qrData": {
+        "seatId": "CL-0104",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 14
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.172Z",
+        "checksum": "6A164745"
+      }
+    },
+    {
+      "seatId": "CL-0105",
+      "position": {
+        "row": 7,
+        "col": 15
+      },
+      "checksum": "63941A7C",
+      "qrData": {
+        "seatId": "CL-0105",
+        "zone": "Central",
+        "position": {
+          "row": 7,
+          "col": 15
+        },
+        "campus": "Campus Desk",
+        "building": "Central Library",
+        "timestamp": "2026-03-18T10:46:33.183Z",
+        "checksum": "63941A7C"
+      }
+    }
+  ],
+  "generatedAt": "2026-03-18T10:46:33.206Z"
+}

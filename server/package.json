@@ -1,0 +1,27 @@
+{
+  "name": "campus-desk-server",
+  "version": "1.0.0",
+  "description": "Campus Desk Backend Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "setup-admin": "node scripts/add-admin.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["campus", "desk", "library", "management"],
+  "author": "Campus Desk Team",
+  "license": "MIT"
+}

@@ -1,0 +1,38 @@
+{
+  "campus": "Campus Desk",
+  "generatedAt": "2026-03-18T10:46:33.210Z",
+  "totalSeats": 1320,
+  "totalZones": 3,
+  "zones": [
+    {
+      "name": "M-Block",
+      "prefix": "MB",
+      "count": 1010,
+      "color": "#4F46E5",
+      "cols": 20,
+      "validationFile": "mblock-validation-data.json"
+    },
+    {
+      "name": "Law",
+      "prefix": "LL",
+      "count": 205,
+      "color": "#7C3AED",
+      "cols": 15,
+      "validationFile": "law-validation-data.json"
+    },
+    {
+      "name": "Central",
+      "prefix": "CL",
+      "count": 105,
+      "color": "#059669",
+      "cols": 15,
+      "validationFile": "central-validation-data.json"
+    }
+  ],
+  "validationRules": {
+    "checksumRequired": true,
+    "zoneSpecific": true,
+    "caseInsensitive": false,
+    "formatValidation": true
+  }
+}
