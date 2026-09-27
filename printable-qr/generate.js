@@ -35,7 +35,6 @@ function generateQRData(seatId, zone, position) {
     position: position,
     campus: 'Campus Desk',
     building: zone + ' Library',
-    timestamp: new Date().toISOString(),
     checksum: generateChecksum(seatId, zone)
   };
 }

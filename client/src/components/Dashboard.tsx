@@ -1,10 +1,10 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { useSeat } from '../context/SeatContext';
 
 const Dashboard: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
   const { authState, logout } = useAuth();
   const { seatState, checkActiveBooking, initializeSeats, fetchSeats } = useSeat();
   const [zoneStats, setZoneStats] = useState({
@@ -62,9 +62,9 @@ const Dashboard: React.FC = () => {
 
   useEffect(() => {
     if (!authState.loading && !authState.isAuthenticated) {
-      navigate('/login');
+      history.push('/login');
     }
-  }, [authState.loading, authState.isAuthenticated, navigate]);
+  }, [authState.loading, authState.isAuthenticated, history]);
 
   useEffect(() => {
     if (authState.isAuthenticated) {
@@ -149,13 +149,13 @@ const Dashboard: React.FC = () => {
               </div>
               <div className="flex gap-4">
                 <button
-                  onClick={() => navigate('/session')}
+                  onClick={() => history.push('/session')}
                   className="bg-white text-rose-500 px-6 py-3 rounded-xl font-semibold hover:bg-rose-50 transition-all"
                 >
                   Extend Session
                 </button>
                 <button
-                  onClick={() => navigate('/scanner')}
+                  onClick={() => history.push('/scanner')}
                   className="bg-white/20 backdrop-blur text-white px-6 py-3 rounded-xl font-semibold hover:bg-white/30 transition-all"
                 >
                   Scan QR
@@ -171,7 +171,7 @@ const Dashboard: React.FC = () => {
         {zones.map((zone) => (
           <div
             key={zone.name}
-            onClick={() => zone.isGD ? navigate('/gd-rooms') : navigate(`/zone/${zone.name}`)}
+            onClick={() => zone.isGD ? history.push('/gd-rooms') : history.push(`/zone/${zone.name}`)}
             className="group cursor-pointer transform transition-all duration-300 hover:scale-105"
           >
             <div className="bg-white/70 backdrop-blur-2xl border border-white/50 shadow-2xl rounded-[2.5rem] p-8 h-full">
@@ -248,13 +248,13 @@ const Dashboard: React.FC = () => {
         <h2 className="text-2xl font-bold text-gray-800 mb-6">Quick Actions</h2>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
           <button
-            onClick={() => navigate('/scanner')}
+            onClick={() => history.push('/scanner')}
             className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white p-4 rounded-xl font-semibold hover:shadow-lg transition-all"
           >
             📷 Quick Check-in
           </button>
           <button
-            onClick={() => seatState.activeBooking && navigate('/session')}
+            onClick={() => seatState.activeBooking && history.push('/session')}
             disabled={!seatState.activeBooking}
             className="bg-gradient-to-r from-rose-500 to-pink-600 text-white p-4 rounded-xl font-semibold hover:shadow-lg transition-all disabled:opacity-50 disabled:cursor-not-allowed"
           >
@@ -277,7 +277,7 @@ const Dashboard: React.FC = () => {
         {authState.user?.role === 'admin' && (
           <div className="mt-6 pt-6 border-t border-gray-200">
             <button
-              onClick={() => navigate('/admin')}
+              onClick={() => history.push('/admin')}
               className="w-full bg-gradient-to-r from-red-500 to-orange-600 text-white p-4 rounded-xl font-semibold hover:shadow-lg transition-all"
             >
               👨‍💼 Admin Console

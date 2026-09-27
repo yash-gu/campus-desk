@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useHistory } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { toast } from 'react-hot-toast';
 
@@ -16,7 +16,7 @@ interface RoomConfig {
 
 const GDRoomDetail: React.FC = () => {
   const { roomId } = useParams<{ roomId: string }>();
-  const navigate = useNavigate();
+  const history = useHistory();
   const { authState } = useAuth();
 
   const roomConfig: Record<string, RoomConfig> = {
@@ -133,7 +133,7 @@ const GDRoomDetail: React.FC = () => {
           <h2 className="text-2xl font-bold text-red-600 mb-4">❌ Room Not Found</h2>
           <p className="text-gray-600 mb-6">The requested GD room "{roomId}" does not exist.</p>
           <button
-            onClick={() => navigate('/gd-rooms')}
+            onClick={() => history.push('/gd-rooms')}
             className="bg-indigo-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-indigo-600 transition-all"
           >
             ← Back to GD Rooms
@@ -156,7 +156,7 @@ const GDRoomDetail: React.FC = () => {
     }
     if (!authState.isAuthenticated) {
       toast.error('Please login to book a slot');
-      navigate('/login');
+      history.push('/login');
       return;
     }
 
@@ -177,7 +177,7 @@ const GDRoomDetail: React.FC = () => {
       setShowBookingForm(false);
       setSelectedSlot('');
       setBookingDetails({ purpose: '', attendees: '', specialRequirements: '' });
-      setTimeout(() => navigate('/gd-rooms'), 2000);
+      setTimeout(() => history.push('/gd-rooms'), 2000);
     } catch (error: any) {
       toast.error('Failed to submit booking request');
     }
@@ -195,7 +195,7 @@ const GDRoomDetail: React.FC = () => {
                 <p className="text-sm text-gray-500">📍 {room.location}</p>
               </div>
               <button
-                onClick={() => navigate('/gd-rooms')}
+                onClick={() => history.push('/gd-rooms')}
                 className="bg-gray-500 text-white px-6 py-2 rounded-xl font-semibold hover:bg-gray-600 transition-all"
               >
                 ← Back

@@ -9,8 +9,12 @@
     "server": "nodemon server/index.js",
     "client": "cd client && npm start",
     "build": "cd client && npm run build",
+    "build:client": "cd client && npm run build",
+    "build:server": "echo 'Server build not required for Vercel'",
     "install-all": "npm install && cd client && npm install",
-    "seed": "cd server && node utils/seedDatabase.js"
+    "seed": "cd server && node utils/seedDatabase.js",
+    "vercel-build": "npm run build:client",
+    "postbuild": "echo 'Build completed for Vercel deployment'"
   },
   "dependencies": {
     "axios": "^1.13.6",

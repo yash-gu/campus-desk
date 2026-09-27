@@ -1,13 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { useNavigate, useLocation } from 'react-router-dom';
+import { useHistory, useLocation } from 'react-router-dom';
 import QrScanner from 'qr-scanner';
 import { useSeat } from '../context/SeatContext';
 import { useAuth } from '../context/AuthContext';
 import { toast } from 'react-hot-toast';
 
 const QRScanner: React.FC = () => {
-  const navigate = useNavigate();
-  const location = useLocation();
+  const history = useHistory();
+  const location = useLocation<{ seatId?: string }>();
   const { checkIn, seatState } = useSeat();
   const { authState } = useAuth();
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -157,7 +157,7 @@ const startScanning = async () => {
       
       await checkIn(seatId, qrCode);
       toast.success(`Successfully checked in at ${seatId}!`);
-      navigate('/dashboard');
+      history.push('/dashboard');
     } catch (error: any) {
       console.error('Check-in failed:', error);
       console.error('Error response:', error.response?.data);
@@ -209,13 +209,13 @@ const startScanning = async () => {
             </p>
             <div className="flex gap-4 justify-center">
               <button
-                onClick={() => navigate('/dashboard')}
+                onClick={() => history.push('/dashboard')}
                 className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all"
               >
                 Back to Dashboard
               </button>
               <button
-                onClick={() => navigate('/session')}
+                onClick={() => history.push('/session')}
                 className="bg-gradient-to-r from-rose-500 to-pink-600 text-white px-6 py-3 rounded-xl font-semibold hover:shadow-lg transition-all"
               >
                 Manage Session
@@ -235,7 +235,7 @@ const startScanning = async () => {
           <div className="flex justify-between items-center">
             <div>
               <button
-                onClick={() => navigate('/dashboard')}
+                onClick={() => history.push('/dashboard')}
                 className="text-indigo-600 hover:text-indigo-700 mb-4 flex items-center gap-2"
               >
                 ← Back to Dashboard

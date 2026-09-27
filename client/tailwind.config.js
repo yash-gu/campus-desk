@@ -9,9 +9,6 @@ module.exports = {
         'jakarta': ['Plus Jakarta Sans', 'sans-serif'],
       },
       colors: {
-        'emerald': '#10b981',
-        'amber': '#f59e0b',
-        'rose': '#f43f5e',
         'ghosted': '#6b7280',
       },
       animation: {

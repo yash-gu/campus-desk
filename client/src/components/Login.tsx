@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
 const Login: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
   const { login, authState } = useAuth();
   const [formData, setFormData] = useState({
     studentId: '',
@@ -46,16 +46,16 @@ const Login: React.FC = () => {
       
       if (userRole === 'admin') {
         console.log('Navigating to admin dashboard...');
-        navigate('/admin-dashboard');
+        history.push('/admin-dashboard');
       } else if (userRole === 'student') {
         console.log('Navigating to student dashboard...');
-        navigate('/dashboard');
+        history.push('/dashboard');
       } else {
         console.log('Unknown role, redirecting to dashboard...');
-        navigate('/dashboard');
+        history.push('/dashboard');
       }
     }
-  }, [authState.isAuthenticated, authState.user, navigate]);
+  }, [authState.isAuthenticated, authState.user, history]);
 
   if (authState.loading) {
     return (
@@ -136,7 +136,7 @@ const Login: React.FC = () => {
           <p className="text-gray-600">
             Don't have an account?{' '}
             <button
-              onClick={() => navigate('/register')}
+              onClick={() => history.push('/register')}
               className="text-indigo-600 font-semibold hover:text-indigo-700 transition-colors"
             >
               Sign up
@@ -153,15 +153,31 @@ const Login: React.FC = () => {
         </div>
 
         <div className="mt-8 pt-8 border-t border-gray-200">
-          <div className="mt-6 p-4 bg-blue-50 border border-blue-200 rounded-lg">
-            <h3 className="text-lg font-semibold text-blue-800 mb-2">Demo Accounts:</h3>
-            <div className="space-y-2 text-sm text-blue-700">
-              <div>
-                <span className="font-medium">Student:</span> ST001 / PASS@123
-              </div>
-              <div>
-                <span className="font-medium">Admin:</span> Only one Admin exists for the entire Campus Desk system
-              </div>
+          <div className="p-4 bg-blue-50 border border-blue-200 rounded-xl">
+            <h3 className="text-sm font-semibold text-blue-800 mb-2">Quick Demo Accounts (Click to fill):</h3>
+            <div className="flex flex-col gap-2">
+              <button
+                type="button"
+                onClick={() => {
+                  setIsAdminMode(false);
+                  setFormData({ studentId: 'ST001', password: 'PASS@123' });
+                }}
+                className="text-left px-3 py-2 bg-white border border-blue-200 rounded-lg hover:bg-blue-100 transition-colors text-xs text-blue-900 flex justify-between items-center"
+              >
+                <span><strong>Student:</strong> ST001</span>
+                <span className="text-gray-500 font-mono">PASS@123</span>
+              </button>
+              <button
+                type="button"
+                onClick={() => {
+                  setIsAdminMode(true);
+                  setFormData({ studentId: 'ADMIN001', password: 'PASS@123' });
+                }}
+                className="text-left px-3 py-2 bg-white border border-blue-200 rounded-lg hover:bg-blue-100 transition-colors text-xs text-blue-900 flex justify-between items-center"
+              >
+                <span><strong>Admin:</strong> ADMIN001</span>
+                <span className="text-gray-500 font-mono">PASS@123</span>
+              </button>
             </div>
           </div>
         </div>

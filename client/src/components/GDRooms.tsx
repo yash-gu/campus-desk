@@ -1,8 +1,8 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 
 const GDRooms: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
 
   const gdRooms = [
     {
@@ -78,7 +78,7 @@ const GDRooms: React.FC = () => {
               <p className="text-gray-600">Group Discussion Room Management System</p>
             </div>
             <button
-              onClick={() => navigate('/dashboard')}
+              onClick={() => history.push('/dashboard')}
               className="bg-gray-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-gray-600 transition-all"
             >
               ← Back to Dashboard
@@ -92,7 +92,7 @@ const GDRooms: React.FC = () => {
         {gdRooms.map((room) => (
           <div
             key={room.id}
-            onClick={() => navigate(`/gd-room/${room.id}`)}
+            onClick={() => history.push(`/gd-room/${room.id}`)}
             className="group cursor-pointer transform transition-all duration-300 hover:scale-105"
           >
             <div className="bg-white/70 backdrop-blur-2xl border border-white/50 shadow-2xl rounded-[2.5rem] p-8 h-full">
@@ -136,7 +136,7 @@ const GDRooms: React.FC = () => {
               {/* Action Button */}
               <div className="mt-6">
                 <button
-                  onClick={() => navigate(`/gd-room/${room.id}`)}
+                  onClick={() => history.push(`/gd-room/${room.id}`)}
                   className="w-full bg-gradient-to-r from-indigo-500 to-purple-600 text-white py-3 rounded-xl font-semibold hover:from-indigo-600 hover:to-purple-700 transition-all shadow-lg"
                 >
                   📱 Book Slot in {room.name}

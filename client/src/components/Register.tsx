@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
 const Register: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
   const { register, authState } = useAuth();
   const [formData, setFormData] = useState({
     studentId: '',
@@ -16,9 +16,9 @@ const Register: React.FC = () => {
 
   useEffect(() => {
     if (authState.isAuthenticated) {
-      navigate('/dashboard');
+      history.push('/dashboard');
     }
-  }, [authState.isAuthenticated, navigate]);
+  }, [authState.isAuthenticated, history]);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
     setFormData({
@@ -173,7 +173,7 @@ const Register: React.FC = () => {
           <p className="text-gray-600">
             Already have an account?{' '}
             <button
-              onClick={() => navigate('/login')}
+              onClick={() => history.push('/login')}
               className="text-indigo-600 font-semibold hover:text-indigo-700 transition-colors"
             >
               Sign in

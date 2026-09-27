@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { useSeat } from '../context/SeatContext';
 import { useAuth } from '../context/AuthContext';
 import { toast } from 'react-hot-toast';
 
 const CurrentSession: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
   const { seatState, checkOut, reCheckIn } = useSeat();
   const { authState } = useAuth();
   const [timeRemaining, setTimeRemaining] = useState<number>(0);
@@ -71,7 +71,7 @@ const CurrentSession: React.FC = () => {
   const handleCheckOut = async () => {
     try {
       await checkOut();
-      navigate('/dashboard');
+      history.push('/dashboard');
     } catch (error) {
       console.error('Failed to check out:', error);
     }
@@ -88,7 +88,7 @@ const CurrentSession: React.FC = () => {
               You don't have any active seat bookings.
             </p>
             <button
-              onClick={() => navigate('/dashboard')}
+              onClick={() => history.push('/dashboard')}
               className="bg-gradient-to-r from-indigo-500 to-purple-600 text-white px-8 py-3 rounded-xl font-semibold hover:shadow-lg transition-all"
             >
               Go to Dashboard
@@ -107,7 +107,7 @@ const CurrentSession: React.FC = () => {
           <div className="flex justify-between items-center">
             <div>
               <button
-                onClick={() => navigate('/dashboard')}
+                onClick={() => history.push('/dashboard')}
                 className="text-indigo-600 hover:text-indigo-700 mb-4 flex items-center gap-2"
               >
                 ← Back to Dashboard
@@ -185,7 +185,7 @@ const CurrentSession: React.FC = () => {
             
             <div className="space-y-4">
               <button
-                onClick={() => navigate('/scanner')}
+                onClick={() => history.push('/scanner')}
                 className="w-full bg-gradient-to-r from-emerald-500 to-green-600 text-white py-4 rounded-xl font-semibold hover:shadow-lg transition-all flex items-center justify-center gap-2"
               >
                 📷 Re-scan QR Code

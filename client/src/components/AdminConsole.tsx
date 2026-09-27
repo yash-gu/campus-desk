@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useHistory } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import { toast } from 'react-hot-toast';
 
@@ -20,7 +20,7 @@ interface GDBookingRequest {
 }
 
 const AdminConsole: React.FC = () => {
-  const navigate = useNavigate();
+  const history = useHistory();
   const { authState } = useAuth();
   
   const [activeTab, setActiveTab] = useState<'pending' | 'approved' | 'rejected'>('pending');
@@ -217,7 +217,7 @@ const AdminConsole: React.FC = () => {
           <h2 className="text-2xl font-bold text-red-600 mb-4">🚫 Access Denied</h2>
           <p className="text-gray-600 mb-6">Admin access required to view this page.</p>
           <button
-            onClick={() => navigate('/dashboard')}
+            onClick={() => history.push('/dashboard')}
             className="bg-indigo-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-indigo-600 transition-all"
           >
             ← Back to Dashboard
@@ -239,7 +239,7 @@ const AdminConsole: React.FC = () => {
                 <p className="text-gray-600">GD Room Booking Management</p>
               </div>
               <button
-                onClick={() => navigate('/dashboard')}
+                onClick={() => history.push('/dashboard')}
                 className="bg-gray-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-gray-600 transition-all"
               >
                 ← Back to Dashboard

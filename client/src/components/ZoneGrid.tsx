@@ -1,11 +1,11 @@
 import React, { useEffect, useState, useMemo } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useHistory } from 'react-router-dom';
 import { useSeat } from '../context/SeatContext';
 import { useAuth } from '../context/AuthContext';
 
 const ZoneGrid: React.FC = () => {
   const { zoneName } = useParams<{ zoneName: string }>();
-  const navigate = useNavigate();
+  const history = useHistory();
   const { seatState, fetchSeats, checkIn } = useSeat();
   const { authState } = useAuth();
   const [selectedSeat, setSelectedSeat] = useState<string | null>(null);
@@ -34,15 +34,15 @@ const ZoneGrid: React.FC = () => {
   const getSeatColor = (status: string) => {
     switch (status) {
       case 'emerald':
-        return 'bg-emerald-500 hover:bg-emerald-600';
+        return 'bg-slate-900 text-emerald-400 border-2 border-emerald-500 hover:bg-black hover:border-emerald-400 hover:text-emerald-300 shadow-md';
       case 'rose':
-        return 'bg-rose-500 hover:bg-rose-600';
+        return 'bg-slate-900 text-rose-400 border-2 border-rose-600/70 opacity-60';
       case 'amber':
-        return 'bg-amber-500 hover:bg-amber-600';
+        return 'bg-slate-900 text-amber-400 border-2 border-amber-500/70 opacity-60';
       case 'ghosted':
-        return 'bg-gray-400 hover:bg-gray-500';
+        return 'bg-slate-900 text-gray-400 border-2 border-gray-600 opacity-50';
       default:
-        return 'bg-gray-300 hover:bg-gray-400';
+        return 'bg-slate-900 text-white border-2 border-gray-700';
     }
   };
 
@@ -58,7 +58,7 @@ const ZoneGrid: React.FC = () => {
 
   const handleBookSeat = () => {
     if (selectedSeat) {
-      navigate('/scanner', { state: { seatId: selectedSeat } });
+      history.push('/scanner', { seatId: selectedSeat });
     }
   };
 
@@ -78,7 +78,7 @@ const ZoneGrid: React.FC = () => {
           <div className="flex justify-between items-center">
             <div>
               <button
-                onClick={() => navigate('/dashboard')}
+                onClick={() => history.push('/dashboard')}
                 className="text-indigo-600 hover:text-indigo-700 mb-4 flex items-center gap-2"
               >
                 ← Back to Dashboard
@@ -106,7 +106,7 @@ const ZoneGrid: React.FC = () => {
                 <p className="text-sm opacity-90 mt-2">You must check out before booking another seat.</p>
               </div>
               <button
-                onClick={() => navigate('/session')}
+                onClick={() => history.push('/session')}
                 className="bg-white text-rose-500 px-6 py-3 rounded-xl font-semibold hover:bg-rose-50 transition-all"
               >
                 Manage Session
@@ -146,12 +146,11 @@ const ZoneGrid: React.FC = () => {
               onClick={() => handleSeatClick(seat.seatId, seat.status)}
               disabled={seat.status !== 'emerald' || !!seatState.activeBooking}
               className={`
-                aspect-square rounded-lg flex items-center justify-center text-xs font-semibold
-                transition-all duration-200 transform hover:scale-105
+                aspect-square rounded-lg flex items-center justify-center text-xs font-bold font-mono
+                transition-all duration-200 transform
                 ${getSeatColor(seat.status)}
-                ${selectedSeat === seat.seatId ? 'ring-4 ring-indigo-500 scale-110' : ''}
-                ${seat.status === 'emerald' && !seatState.activeBooking ? 'cursor-pointer' : 'cursor-not-allowed opacity-75'}
-                text-white
+                ${selectedSeat === seat.seatId ? '!bg-indigo-600 !text-white !border-indigo-400 ring-4 ring-indigo-400 scale-110 shadow-2xl z-10' : ''}
+                ${seat.status === 'emerald' && !seatState.activeBooking ? 'cursor-pointer hover:scale-105' : 'cursor-not-allowed'}
               `}
               title={`${seat.seatId} - ${seat.status}`}
             >

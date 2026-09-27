@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navigate } from 'react-router-dom';
+import { Redirect } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import toast from 'react-hot-toast';
 
@@ -27,19 +27,19 @@ const ProtectedRoute: React.FC<ProtectedRouteProps> = ({
 
   // Redirect to login if not authenticated
   if (!authState.isAuthenticated) {
-    return <Navigate to="/login" replace />;
+    return <Redirect to="/login" />;
   }
 
   // Admin-only route protection
   if (adminOnly && authState.user?.role !== 'admin') {
     toast.error('Access Denied: Admin privileges required');
-    return <Navigate to="/dashboard" replace />;
+    return <Redirect to="/dashboard" />;
   }
 
   // Student-only route protection (if needed)
   if (studentOnly && authState.user?.role !== 'student') {
     toast.error('Access Denied: Student privileges required');
-    return <Navigate to="/admin-dashboard" replace />;
+    return <Redirect to="/admin-dashboard" />;
   }
 
   // User is authenticated and has proper role - render children

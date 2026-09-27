@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Redirect } from 'react-router-dom';
 import { io, Socket } from 'socket.io-client';
 import { Toaster } from 'react-hot-toast';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { SeatProvider } from './context/SeatContext';
+import API_BASE_URL from './config/api';
 
 // Components
 import Dashboard from './components/Dashboard';
@@ -32,12 +33,12 @@ const ProtectedRoute: React.FC<{ children: React.ReactNode; adminOnly?: boolean 
   }
   
   if (!authState.isAuthenticated) {
-    return <Navigate to="/login" replace />;
+    return <Redirect to="/login" />;
   }
   
   // If admin-only route and user is not admin, redirect to dashboard
   if (adminOnly && authState.user?.role !== 'admin') {
-    return <Navigate to="/dashboard" replace />;
+    return <Redirect to="/dashboard" />;
   }
   
   return <>{children}</>;
@@ -47,7 +48,7 @@ function App() {
   const [socket, setSocket] = useState<Socket | null>(null);
 
   useEffect(() => {
-    const newSocket = io('http://localhost:5001', {
+    const newSocket = io(API_BASE_URL, {
       transports: ['websocket'],
       upgrade: false,
     });
@@ -77,27 +78,27 @@ function App() {
 
               {/* Main content */}
               <div className="relative z-10">
-                <Routes>
-                  <Route path="/login" element={<Login />} />
-                  <Route path="/register" element={<Register />} />
-                  <Route path="/zone/:zoneName" element={<ZoneGrid />} />
-                  <Route path="/scanner" element={<QRScanner />} />
-                  <Route path="/session" element={<CurrentSession />} />
-                  <Route path="/gd-rooms" element={<GDRooms />} />
-                  <Route path="/gd-room/:roomId" element={<GDRoomDetail />} />
-                  <Route path="/dashboard" element={
+                <Switch>
+                  <Route path="/login" component={Login} />
+                  <Route path="/register" component={Register} />
+                  <Route path="/zone/:zoneName" component={ZoneGrid} />
+                  <Route path="/scanner" component={QRScanner} />
+                  <Route path="/session" component={CurrentSession} />
+                  <Route path="/gd-rooms" component={GDRooms} />
+                  <Route path="/gd-room/:roomId" component={GDRoomDetail} />
+                  <Route path="/dashboard" render={() => (
                     <ProtectedRoute>
                       <Dashboard />
                     </ProtectedRoute>
-                  } />
-                  <Route path="/admin-dashboard" element={
+                  )} />
+                  <Route path="/admin-dashboard" render={() => (
                     <ProtectedRoute adminOnly={true}>
                       <AdminConsole />
                     </ProtectedRoute>
-                  } />
-                  <Route path="/admin" element={<Navigate to="/admin-dashboard" replace />} />
-                  <Route path="/" element={<Navigate to="/dashboard" replace />} />
-                </Routes>
+                  )} />
+                  <Route path="/admin" render={() => <Redirect to="/admin-dashboard" />} />
+                  <Route path="/" render={() => <Redirect to="/dashboard" />} />
+                </Switch>
               </div>
             </div>
           </Router>

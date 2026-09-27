@@ -33,7 +33,6 @@ function generateQRData(roomId, slot) {
     timeSlot: slot,
     campus: 'Campus Desk',
     type: 'gd-room',
-    timestamp: new Date().toISOString(),
     checksum: generateChecksum(roomId, slot)
   };
 }

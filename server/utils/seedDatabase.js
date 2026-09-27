@@ -19,21 +19,21 @@ const seedDatabase = async () => {
         studentId: 'ST001',
         name: 'John Student',
         email: 'student@campus.edu',
-        password: 'password',
+        password: 'PASS@123',
         role: 'student'
       },
       {
         studentId: 'LIB001',
         name: 'Jane Librarian',
         email: 'librarian@campus.edu',
-        password: 'password',
+        password: 'PASS@123',
         role: 'librarian'
       },
       {
         studentId: 'ADMIN001',
         name: 'Admin User',
         email: 'admin@campus.edu',
-        password: 'password',
+        password: 'PASS@123',
         role: 'admin'
       }
     ];

@@ -10,9 +10,13 @@ dotenv.config();
 
 const app = express();
 const server = http.createServer(app);
+
+// Socket.io configuration for Vercel
 const io = socketIo(server, {
   cors: {
-    origin: ["http://localhost:3000", "http://localhost:3001"],
+    origin: process.env.NODE_ENV === 'production' 
+      ? process.env.VERCEL_URL 
+      : "http://localhost:3000",
     methods: ["GET", "POST"]
   }
 });
@@ -42,8 +46,8 @@ app.set('io', io);
 cron.schedule('*/5 * * * *', async () => {
   console.log('Running ghosting detection check...');
   try {
-    const Booking = require('./models/Booking');
-    const Seat = require('./models/Seat');
+    const Booking = require('../server/models/Booking');
+    const Seat = require('../server/models/Seat');
     
     // Find bookings that haven't been checked in for 90 minutes
     const ninetyMinutesAgo = new Date(Date.now() - 90 * 60 * 1000);
@@ -84,10 +88,10 @@ cron.schedule('*/5 * * * *', async () => {
 });
 
 // Routes
-const seatRoutes = require('./routes/seats');
-const bookingRoutes = require('./routes/bookings');
-const userRoutes = require('./routes/users');
-const testRoutes = require('./routes/test');
+const seatRoutes = require('../server/routes/seats');
+const bookingRoutes = require('../server/routes/bookings');
+const userRoutes = require('../server/routes/users');
+const testRoutes = require('../server/routes/test');
 
 // Mount routes
 app.use('/api/seats', seatRoutes);
@@ -95,7 +99,20 @@ app.use('/api/bookings', bookingRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/test', testRoutes);
 
-const PORT = process.env.PORT || 5001;
-server.listen(PORT, () => {
-  console.log(`Campus Desk server running on port ${PORT}`);
+// Health check endpoint
+app.get('/api/health', (req, res) => {
+  res.json({ status: 'ok', timestamp: new Date().toISOString() });
 });
+
+// Export for Vercel
+module.exports = (req, res) => {
+  app(req, res);
+};
+
+// For local development
+if (require.main === module) {
+  const PORT = process.env.PORT || 5001;
+  server.listen(PORT, () => {
+    console.log(`Campus Desk server running on port ${PORT}`);
+  });
+}
